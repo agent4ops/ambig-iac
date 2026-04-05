@@ -1,0 +1,6 @@
+has one "aws_s3_bucket" resource
+    with one "bucket"
+
+has one "aws_s3_bucket_policy"
+     with one "bucket"
+     with one "policy"

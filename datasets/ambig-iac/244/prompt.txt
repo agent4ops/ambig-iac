@@ -1,0 +1,1 @@
+I want to make our small app load reliably and quickly from a single, steady address, and have a simple way to fan out traffic so users get decent performance without adding much complexity.

@@ -1,0 +1,1 @@
+Generate a resource to manage a Kinesis Stream Consumer

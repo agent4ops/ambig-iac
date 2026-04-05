@@ -1,0 +1,1 @@
+An AWS service that provisions an EC2 instance and backs it up every day at midnight. Accomplish this using the following resources: AWS EC2, AWS EC2 key pair, AWS Backup plan, AWS Backup vault. Add any necessary resources.

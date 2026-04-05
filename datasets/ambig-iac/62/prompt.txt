@@ -1,0 +1,1 @@
+I need an easy way to spin up and tear down a shared environment for running containerized workloads, making sure it has its own isolated network space and the right access rules, plus some automatic setup so my command‑line tools can talk to it while it exists.

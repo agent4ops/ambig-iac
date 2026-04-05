@@ -1,0 +1,2 @@
+Has one resource "aws_lex_bot" with argument "enable_model_improvements" = true
+ and argument "nlu_intent_confidence_threshold" = 0.5 and at least one resource "aws_lex_intent"

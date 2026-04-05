@@ -1,0 +1,1 @@
+Configure Blue/Green deployment with Route53 resources to navigate traffic between Elastic Beanstalk Environments. Name the environments "blue" and "green" and implement a Weighted Routing Policy for the records

@@ -1,0 +1,1 @@
+I need to let a specific person see only a limited part of our app’s shared computing space, keeping their permissions tightly scoped to just one area.

@@ -1,0 +1,1 @@
+I need a setup that can handle voice traffic using more than one path, all secured, with a way to prefer one option over the others while still having fallbacks.

@@ -1,0 +1,1 @@
+Configure Route 53 to return different database endpoints to internal versus external users. Internal users are routed to an internal RDS instance, while external users are routed to a publicly accessible one. Name the zones "private" and "public", the databases "internal" and "public", and the subnet group "main"

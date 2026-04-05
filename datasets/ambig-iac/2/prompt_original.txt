@@ -1,0 +1,1 @@
+Configure a Route 53 record with an Elastic Load Balancer resource. Call the zone "primary" and the elb "main"

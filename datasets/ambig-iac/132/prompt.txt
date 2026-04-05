@@ -1,0 +1,1 @@
+I need a way to handle a steady flow of real‑time messages, keep everything encrypted, and have the activity from this system sent to a few different places for visibility and backup, all while staying resilient across multiple locations.

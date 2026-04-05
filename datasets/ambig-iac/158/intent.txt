@@ -1,0 +1,5 @@
+Has "aws_neptune_cluster"
+with "neptune_cluster_parameter_group_name"
+
+Has "aws_neptune_cluster_parameter_group"
+with family = "neptune1.2"

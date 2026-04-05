@@ -1,0 +1,1 @@
+I need a shared storage space that can automatically move older data to a cheaper tier so we don’t overspend.

@@ -1,0 +1,1 @@
+I need a place to keep files where everything stored there is automatically protected with our own controlled encryption key.

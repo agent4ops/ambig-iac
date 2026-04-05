@@ -1,0 +1,1 @@
+I want my stored data to automatically clean itself up after a certain point so old entries don’t pile up, and I need to base that timing on a field I control.

@@ -1,0 +1,1 @@
+I need an automated system that can pull our code from an online repo, run our builds with some custom settings, and keep things snappy by reusing work where possible.

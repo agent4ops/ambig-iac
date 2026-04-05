@@ -1,0 +1,3 @@
+has one "aws_glacier_vault" resource
+     with "name" attribute
+     with "access_policy" attribute

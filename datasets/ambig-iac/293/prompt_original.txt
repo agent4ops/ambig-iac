@@ -1,0 +1,1 @@
+creates a NAT Gateway associated with a specified subnet and Elastic IP allocation ID. The NAT Gateway is configured for public connectivity.

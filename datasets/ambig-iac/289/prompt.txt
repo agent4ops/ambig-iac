@@ -1,0 +1,1 @@
+I need a private network for our systems where new machines automatically get the right basic settings for things like naming and where to look for shared resources, and it should all work smoothly without a lot of manual setup.

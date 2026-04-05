@@ -1,0 +1,1 @@
+I need a simple way to manage new releases of my app so old versions don’t pile up, but still keep things running smoothly and securely.

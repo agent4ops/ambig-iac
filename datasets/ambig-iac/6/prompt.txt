@@ -1,0 +1,1 @@
+I need a simple way to run and manage a web app in the cloud without handling servers myself, and it should have the right permissions to operate smoothly while keeping the setup pretty minimal.

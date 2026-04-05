@@ -1,0 +1,1 @@
+I need our analytics data system to alert us whenever something important happens so we can keep an eye on its health without constantly checking it.

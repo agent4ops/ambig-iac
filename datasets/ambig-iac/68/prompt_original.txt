@@ -1,0 +1,1 @@
+Generate a Terraform script to create an AWS EKS Fargate profile. Define a resource that links to an EKS cluster (with name set to "example") by name, sets a Fargate profile name, and assigns a pod execution role ARN (tied to an IAM role with name "example"). Specify subnet IDs and include a selector for the namespace 'example'.

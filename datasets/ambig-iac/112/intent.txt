@@ -1,0 +1,1 @@
+Has a sagemaker user profile resource which depends on a sagemaker domain resource

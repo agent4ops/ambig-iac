@@ -1,0 +1,1 @@
+Has one "aws_iam_role" resource, one "aws_s3_bucket" resource, and one "aws_kinesis_firehose_delivery_stream" resource with the argument "enabled" within the "dynamic_partitioning_configuration" block set to "true"

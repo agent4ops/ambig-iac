@@ -1,0 +1,1 @@
+I need a shared data store for connected information, and I want to be able to fine‑tune how it behaves for our needs.

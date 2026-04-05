@@ -1,0 +1,1 @@
+Has one "aws_kinesis_video_stream" resource

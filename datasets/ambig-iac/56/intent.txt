@@ -1,0 +1,2 @@
+Has one "aws_route53_zone" resource
+    with "name" set to "example53.com"

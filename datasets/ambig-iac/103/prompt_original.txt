@@ -1,0 +1,1 @@
+Create a DynamoDB Contributor Insights resource for a specific table with custom settings

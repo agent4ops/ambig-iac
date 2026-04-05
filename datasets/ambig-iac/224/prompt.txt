@@ -1,0 +1,1 @@
+I need to enable some extra data‑protection and oversight features on our database, including sending certain activity details to an external location, and I want to keep the setup flexible enough to plug into our existing access controls.

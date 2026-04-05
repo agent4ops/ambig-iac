@@ -1,0 +1,1 @@
+Create two AWS Chime Voice Connectors, both with encryption, and group these together

@@ -1,0 +1,2 @@
+Has one "aws_default_network_acl" resource:
+with unrestricted ingress and egress rules allowing all traffic

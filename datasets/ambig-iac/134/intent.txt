@@ -1,0 +1,1 @@
+Has a aws_rds_cluster with engine=="aurora-mysql"

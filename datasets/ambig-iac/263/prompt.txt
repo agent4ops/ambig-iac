@@ -1,0 +1,1 @@
+I need a small, low-cost place to store structured app data that’s fine living in our cloud environment and doesn’t need anything fancy, just something reliable enough for basic use.

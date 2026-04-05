@@ -1,0 +1,1 @@
+I need a simple conversational tool that can take a food order, ask for the details it needs, and then check whether the customer wants to add anything else before wrapping up.

@@ -1,0 +1,6 @@
+has one aws_s3_bucket resource
+with bucket
+
+has one aws_s3_bucket_request_payment_configuration resource
+with bucket
+with payer (BucketOwner or Requester)

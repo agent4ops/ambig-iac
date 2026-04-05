@@ -1,0 +1,3 @@
+has one "aws_eks_addon" resource
+with one "cluster_name"
+with one "addon_name"

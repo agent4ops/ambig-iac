@@ -1,0 +1,1 @@
+I need a place to store files, and whenever new log files show up there, I want something else in our system to get a quick heads‑up about it.

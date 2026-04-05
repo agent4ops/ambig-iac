@@ -1,0 +1,3 @@
+Has one "aws_dynamodb_table" resource
+with one "point_in_time_recovery"
+with one "enabled" = true

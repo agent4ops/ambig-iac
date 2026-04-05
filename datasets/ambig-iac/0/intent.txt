@@ -1,0 +1,13 @@
+Has one "aws_route53_zone" resource
+    with "name"
+
+Has one "aws_cloudwatch_log_group" resource
+
+Has one "aws_cloudwatch_log_resource_policy" resource
+    with "policy_document" enabling "logs:CreateLogStream" and "logs:PutLogEvents"
+    with "policy_name"
+
+Has one "aws_route53_query_log" resource
+    with "cloudwatch_log_group_arn" referencing the "aws_cloudwatch_log_group" resource
+    with "zone_id" referencing the "aws_route53_zone" resource
+    and depends on the "aws_cloudwatch_log_resource_policy" resource

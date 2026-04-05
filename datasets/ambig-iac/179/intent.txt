@@ -1,0 +1,2 @@
+Has one "aws_iam_group" resource
+with one "name" with any value

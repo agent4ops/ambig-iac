@@ -1,0 +1,1 @@
+I want to set up a conversational helper that can walk people through ordering food, handle updates or cancellations, answer basic questions, and generally guide them through a few different actions, all while keeping things simple and reliable.

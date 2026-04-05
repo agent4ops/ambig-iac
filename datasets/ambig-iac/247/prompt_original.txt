@@ -1,0 +1,1 @@
+generate an S3 Glacier vault and use it with AWS Data Lifecycle Manager

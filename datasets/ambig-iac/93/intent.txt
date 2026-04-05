@@ -1,0 +1,1 @@
+Has an aws_redshift_resouce with 2 nodes and creates a aws_redshift_endpoint_authorization resource with account =012345678910

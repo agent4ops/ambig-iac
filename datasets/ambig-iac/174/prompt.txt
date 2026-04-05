@@ -1,0 +1,1 @@
+I need a managed analytics datastore for our internal reporting, with some custom tuning applied and a way to get notified whenever those settings change so we can keep an eye on things.

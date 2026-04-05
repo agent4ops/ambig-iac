@@ -1,0 +1,1 @@
+Create a managed MSK cluster with jmx_exporter and node_exporter both enabled.

@@ -1,0 +1,1 @@
+Configure a valid Route 53 zone association resource

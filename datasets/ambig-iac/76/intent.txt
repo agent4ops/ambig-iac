@@ -1,0 +1,13 @@
+has one "aws_s3_bucket" resource
+    with one "bucket"
+
+has one "aws_s3_bucket_acl"
+    with one "bucket"
+    with one "acl" or "access_control_policy"
+
+has one "aws_s3_bucket_public_access_block"
+    with one "bucket"
+
+has one "aws_s3_bucket_server_side_encryption_configuration"
+    with one "bucket"
+    with one "rule"

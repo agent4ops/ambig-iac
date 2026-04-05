@@ -1,0 +1,1 @@
+I need a super fast place to temporarily store frequently used data so my app can respond quickly, but I want to keep the setup pretty simple.

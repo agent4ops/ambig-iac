@@ -1,0 +1,1 @@
+Provision a resource to deploy and scale a web application that was developed with supported programming languages.

@@ -1,0 +1,1 @@
+I need a dependable way to handle streams of messages for our apps, spread across multiple locations so it keeps working even if one area has issues.

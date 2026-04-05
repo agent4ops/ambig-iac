@@ -1,0 +1,1 @@
+I need a shared analytics workspace that can handle moderate workloads across multiple machines, and it should allow certain external systems to plug into it securely.

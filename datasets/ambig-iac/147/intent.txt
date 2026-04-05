@@ -1,0 +1,4 @@
+Has one "aws_dynamodb_table" resource
+with one "ttl"
+with one "attribute_name" = "custom_ttl_attribute"
+with one "enabled" = true

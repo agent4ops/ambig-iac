@@ -1,0 +1,1 @@
+I need a private network for our systems that works with both older and newer addressing formats, and it should be flexible enough to grow over time.

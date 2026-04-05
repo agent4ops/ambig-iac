@@ -1,0 +1,1 @@
+I need a simple place to keep structured data that can be restored to any moment if something goes wrong.

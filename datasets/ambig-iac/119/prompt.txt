@@ -1,0 +1,1 @@
+I need a super fast caching layer in front of our data store to cut down read times, but I want to keep the setup minimal and easy to manage.

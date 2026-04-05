@@ -1,0 +1,1 @@
+Create an AWS VPC resource with one public subnet and one private subnet

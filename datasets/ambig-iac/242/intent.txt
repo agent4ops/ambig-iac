@@ -1,0 +1,3 @@
+have one aws_lightsail_certificate
+    with name
+    with domain_name

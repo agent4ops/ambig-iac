@@ -1,0 +1,1 @@
+Create a S3 bucket with bucket name = "mybucket" and object lock enabled. Then, add an object lock configuration resource for the new bucket.

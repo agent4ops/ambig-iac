@@ -1,0 +1,1 @@
+Create a aws_lambda_layer_version by using file_name = "lambda_layer_payload.zip". Layer name can be any.

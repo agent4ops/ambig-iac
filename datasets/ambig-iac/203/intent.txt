@@ -1,0 +1,6 @@
+Has two aws_s3_bucket
+
+Has an aws_s3_bucket_logging
+with bucket = bucket id OR name
+with target_bucket = second bucket id OR name
+with target_prefix = "log/"

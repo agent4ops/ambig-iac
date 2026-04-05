@@ -1,0 +1,1 @@
+Has one resource "aws_lex_bot" with "child_directed" = true and at least one "aws_lex_intent" resource

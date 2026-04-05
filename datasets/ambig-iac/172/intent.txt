@@ -1,0 +1,8 @@
+Has one resource "aws_sns_topic"
+
+Has one resource "aws_redshift_cluster"
+
+Has one resource "aws_redshift_event_subscription"
+with source_type = "cluster"
+and sns topic referenced in sns_topic_arn
+and cluster referenced in source_ids

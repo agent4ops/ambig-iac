@@ -1,0 +1,1 @@
+Create a serverless MSK cluster with 3 broker nodes in us-east1.

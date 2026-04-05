@@ -1,0 +1,1 @@
+Provide an ElastiCache user resource with redis

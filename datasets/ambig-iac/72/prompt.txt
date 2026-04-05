@@ -1,0 +1,1 @@
+I need certain workloads in our container platform to be able to pull data from our storage system, but only with tightly scoped permissions, and tied to a specific app identity so everything stays secure and easy to manage.

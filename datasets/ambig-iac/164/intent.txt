@@ -1,0 +1,9 @@
+Has one resource "aws_chime_voice_connector"
+with require_encryption="true"
+
+Has another resource "aws_chime_voice_connector"
+with require_encryption="true"
+
+Has one resource "aws_chime_voice_connector_group"
+with a connector for each voice connector with the correct id
+one connector should have a priority higher than the other

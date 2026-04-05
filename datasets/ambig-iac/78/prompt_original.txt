@@ -1,0 +1,1 @@
+Set up an AWS S3 bucket and DynamoDB table for Terraform state management. Ensure the S3 bucket has preventive measures against accidental deletion and is configured with versioning enabled, server-side encryption using AES256, and public access restrictions. Create a DynamoDB table with a hash key named 'LockID' using 'PAY_PER_REQUEST' billing mode for Terraform locking.

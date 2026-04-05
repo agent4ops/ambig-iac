@@ -1,0 +1,1 @@
+configures AWS as the cloud provider. It defines an AWS VPC with a specific CIDR block of 10.0.0.0/16 and a network ACL linked to this VPC that allows specific TCP traffic for both ingress and egress rules.

@@ -1,0 +1,1 @@
+create a AWS codebuild project resource with example iam role and secondary sources

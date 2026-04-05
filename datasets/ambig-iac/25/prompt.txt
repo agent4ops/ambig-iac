@@ -1,0 +1,1 @@
+I need an automated build setup that can pull code from more than one place, run with a few custom settings, and save its outputs in multiple locations, all while keeping things simple and secure.

@@ -1,0 +1,1 @@
+I need a way to verify ownership of my domain so I can serve it securely across a couple of related names.

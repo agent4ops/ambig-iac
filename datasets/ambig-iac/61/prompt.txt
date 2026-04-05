@@ -1,0 +1,1 @@
+I want a simple way to control how people reach our service through our domain, with room to change the routing logic later without much effort.

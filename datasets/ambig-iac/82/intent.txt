@@ -1,0 +1,1 @@
+create aws_ami resource with name = any

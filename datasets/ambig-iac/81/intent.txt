@@ -1,0 +1,5 @@
+Resource "aws_s3_bucket_object"
+has one "bucket"
+has one "key"
+has one "source"
+has one "etag"

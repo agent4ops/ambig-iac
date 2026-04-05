@@ -1,0 +1,1 @@
+We need a way to move our app’s streaming data into our search and analytics tool in near real time, and the whole thing has to run inside our private network for security.

@@ -1,0 +1,1 @@
+I need a small, isolated spot in the cloud for a basic machine to run in, and it should use a common, up‑to‑date system image while keeping the setup simple.

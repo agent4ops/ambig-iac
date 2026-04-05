@@ -1,0 +1,1 @@
+Create a 1 node RedShift cluster and automatically create a snapshot every 12 hours

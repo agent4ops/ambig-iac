@@ -1,0 +1,23 @@
+have one "aws_codebuild_project" resource
+  with "artifacts" argument block
+    with "type" argument with value "S3"
+    with "location" argument
+    with "name" argument
+  with "environment" argument block
+    with "computer_type" argument
+    with "image" argument
+    with "type" argument
+  with "source" argument block
+    with "type" argument with value "GITHUB"
+    with "location" argument
+  with "vpc_config" argument block
+    with "vpc_id" argument
+    with "subnets" argument
+    with "security_group_ids" argument
+have one "aws_vpc" resource
+  with "cidr_block" argument
+have one "aws_subnet" argument
+  with "vpc_id" argument
+  with "cidr_block" argument
+with one "aws_security_group" resource
+  with "vpc_id" argument

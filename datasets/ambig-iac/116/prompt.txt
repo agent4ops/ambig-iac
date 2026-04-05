@@ -1,0 +1,1 @@
+I need a way for one of our in‑memory data access identities to sign in using our existing account‑level permissions system, so everything stays consistent and secure.

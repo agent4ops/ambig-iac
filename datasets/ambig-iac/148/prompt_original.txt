@@ -1,0 +1,1 @@
+Configure a DynamoDB table with server-side encryption enabled.

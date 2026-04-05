@@ -1,0 +1,8 @@
+Has one resource "aws_chime_voice_connector"
+with require_encryption=true
+
+Has one resource "aws_chime_voice_connector_streaming"
+with voice_connector_id equal to the id of the voice connector
+with streaming_enabled = false
+with data_retention = 5
+streaming_notification_targets = ["SNS"]

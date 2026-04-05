@@ -1,0 +1,1 @@
+I need a way to automatically pull in the newest version of our base system image so our servers always start from an up‑to‑date foundation.

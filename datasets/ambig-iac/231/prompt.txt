@@ -1,0 +1,1 @@
+I need a small, easy-to-manage server for a simple app, and it should work smoothly whether people connect with older or newer network formats.

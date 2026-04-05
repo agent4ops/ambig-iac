@@ -1,0 +1,1 @@
+I need a setup that can handle voice traffic through more than one path, all protected in transit, and organized so calls can keep flowing even if one option has issues.

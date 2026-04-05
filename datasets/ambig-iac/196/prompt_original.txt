@@ -1,0 +1,1 @@
+Create a S3 bucket and host a static website. The website should use "index.html" in my bucket as the index page.

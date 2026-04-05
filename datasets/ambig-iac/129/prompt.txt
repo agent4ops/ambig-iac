@@ -1,0 +1,1 @@
+I need a reliable way for different parts of our system to exchange a high volume of messages in real time, and it should automatically scale without me having to manage any machines.

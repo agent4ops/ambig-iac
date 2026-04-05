@@ -1,0 +1,1 @@
+I need a reliable way to handle high‑volume streaming data, and I want the activity from that system saved somewhere durable for later analysis, while keeping the setup straightforward.

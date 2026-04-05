@@ -1,0 +1,1 @@
+create an aws sql, and make a replica of it

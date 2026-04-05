@@ -1,0 +1,1 @@
+I need our video site to load quickly for people in many different countries, with the files stored in one place but delivered efficiently and tied to our own domain, while keeping things reasonably secure.

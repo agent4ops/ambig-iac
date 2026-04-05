@@ -1,0 +1,2 @@
+Has one "aws_db_instance" resource
+with one "engine" = "mysql"

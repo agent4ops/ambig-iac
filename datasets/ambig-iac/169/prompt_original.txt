@@ -1,0 +1,1 @@
+Create an AWS Chime Voice Connector. Then set up a configuration to stream media to Amazon Kinesis.

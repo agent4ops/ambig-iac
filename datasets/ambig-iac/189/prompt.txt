@@ -1,0 +1,1 @@
+I need a way to regularly capture a snapshot of everything stored in one place and have those summaries saved somewhere else so we can review them later, ideally without having to run anything manually.

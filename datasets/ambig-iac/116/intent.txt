@@ -1,0 +1,1 @@
+requires access string, engine = REDIS, user id and user name, authentication_mode {type = "iam"}

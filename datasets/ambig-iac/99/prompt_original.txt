@@ -1,0 +1,1 @@
+Create a RedShift cluster with 2 nodes and create an endpoint access for it

@@ -1,0 +1,1 @@
+creates DHCP options named "pike" for an AWS VPC, specifying Google's DNS servers (8.8.8.8 and 8.8.4.4), and then associates these DHCP options with a specified VPC

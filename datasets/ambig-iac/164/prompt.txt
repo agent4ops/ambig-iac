@@ -1,0 +1,1 @@
+I need a setup that can handle outgoing calls through more than one path, with everything secured, and it should try one option before falling back to another.

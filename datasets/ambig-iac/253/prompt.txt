@@ -1,0 +1,1 @@
+I need a long‑term storage area for rarely used data, and I want to get a heads‑up whenever something I’ve asked to restore is finally ready, so we don’t have to keep checking manually.

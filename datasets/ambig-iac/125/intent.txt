@@ -1,0 +1,5 @@
+Has one "aws_msk_cluster" resource
+with one "logging_info"
+with one "broker_logs"
+with one "firehose"
+with one "enabled" = true

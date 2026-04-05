@@ -1,0 +1,20 @@
+has one "aws_caller_identity" data source named "current"
+has one "aws_ecr_image" 
+with one "repository_name"
+with one "image_tag"
+
+has multiple local variables defining:
+"image_tag" 
+"aws_tags"
+"workspace_name"
+
+has one module named "eks"
+
+has one "aws_eks_cluster" data source named "aptos"
+with one "name"
+with a "depends_on" 
+has one "aws_eks_cluster_auth"
+with one "name"
+
+has one "helm" provider
+has one "kubernetes" provider

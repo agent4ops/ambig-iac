@@ -1,0 +1,1 @@
+I need a small always‑on server for a simple app, and it should regularly back itself up without me having to manage anything.

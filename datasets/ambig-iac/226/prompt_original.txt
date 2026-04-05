@@ -1,0 +1,1 @@
+generate Basic Amazon Lightsail with user Data

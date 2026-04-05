@@ -1,0 +1,12 @@
+has one "aws_eks_node_group" resource
+with one "cluster_name"
+with one "node_group_name"
+with one "node_role_arn"
+with one "subnet_ids"
+with one "scaling_config" containing:
+one "desired_size"
+one "max_size"
+one "min_size"
+with one "update_config" containing:
+one "max_unavailable"
+with dependencies on three IAM role policy attachments

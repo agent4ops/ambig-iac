@@ -1,0 +1,1 @@
+We need a way to take our incoming app data and load it into our analytics system automatically, with a fallback option for storing the raw files in case something goes wrong.

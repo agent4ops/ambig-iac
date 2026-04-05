@@ -1,0 +1,1 @@
+I need a fully managed setup for handling high‑volume data streams, and I want to be able to gather detailed performance metrics from each worker so we can keep an eye on its health.

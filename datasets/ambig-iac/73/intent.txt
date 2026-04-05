@@ -1,0 +1,13 @@
+has one "aws_iam_role" 
+with one "name"
+with one "assume_role_policy"
+
+has one "aws_iam_role_policy_attachment"
+with one "policy_arn"
+with one "role" referencing the "aws_iam_role.eks.name"
+
+has one "aws_eks_cluster"
+with one "name"
+with one "version"
+with one "role_arn"
+with one "vpc_config" containing "endpoint_private_access", "endpoint_public_access", and "subnet_ids"

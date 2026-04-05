@@ -1,0 +1,1 @@
+I need a place to store files that my web app can interact with directly, and it should only accept requests coming from our main site.

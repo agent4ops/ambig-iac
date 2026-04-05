@@ -1,0 +1,1 @@
+I need a small always-on machine for a side project, and it should keep the same public address even if it restarts.

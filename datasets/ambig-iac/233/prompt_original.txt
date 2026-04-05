@@ -1,0 +1,1 @@
+create an AWS Lightsail instance that creates a mysql database

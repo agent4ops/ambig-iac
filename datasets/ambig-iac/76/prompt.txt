@@ -1,0 +1,1 @@
+I need a secure place to store some files where everything stays private by default, is encrypted automatically, and can’t accidentally be exposed to the public.

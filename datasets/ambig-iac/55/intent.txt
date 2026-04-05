@@ -1,0 +1,1 @@
+Has one "aws_iam_role" resource and one "aws_kendra_index" resource with the "user_group_resolution_configuration" block

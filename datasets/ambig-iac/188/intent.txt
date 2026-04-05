@@ -1,0 +1,5 @@
+Has two resources "aws_s3_bucket"
+
+Has one resource "aws_s3_bucket_inventory"
+with bucket = first bucket id OR name
+with schedule with frequency = "Daily"

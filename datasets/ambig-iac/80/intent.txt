@@ -1,0 +1,9 @@
+has one aws_s3_bucket resource
+with bucket
+
+has one aws_s3_bucket_public_access_block resource
+with bucket
+with block_public_acls (boolean)
+with block_public_policy (boolean)
+with ignore_public_acls (boolean)
+with restrict_public_buckets (boolean)

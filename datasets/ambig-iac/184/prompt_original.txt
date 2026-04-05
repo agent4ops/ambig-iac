@@ -1,0 +1,1 @@
+Create S3 bucket with bucket name = "mybucket" and attach an acclerate configuration resource for the bucket with enabled status.

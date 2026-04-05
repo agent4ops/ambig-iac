@@ -1,0 +1,1 @@
+Create an 20GB mysql on aws with randomly generated id and password

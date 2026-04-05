@@ -1,0 +1,1 @@
+I need a place to run heavy analytical queries, and it should be reachable from different parts of our internal network so teams in separate zones can access it reliably.

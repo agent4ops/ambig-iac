@@ -1,0 +1,1 @@
+Set up a record that maps a domain name to an IPv4 address using Route 53 resources

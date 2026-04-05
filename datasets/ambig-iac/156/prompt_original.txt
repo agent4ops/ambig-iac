@@ -1,0 +1,1 @@
+Create an AWS VPC resource with an Internet Gateway attached and a route to a custom route table directing traffic for a specific CIDR block through the Internet Gateway

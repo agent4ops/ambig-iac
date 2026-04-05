@@ -1,0 +1,1 @@
+Infrastructure for an autograder for a CS class. The autograder needs to run students' code stored on GitHub in a specific environment and store the result. Accomplish this using AWS CodeBuild.

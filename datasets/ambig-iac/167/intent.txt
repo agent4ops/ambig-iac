@@ -1,0 +1,6 @@
+Has one resource "aws_chime_voice_connector"
+with require_encryption=true
+
+Has one resource "aws_chime_voice_connector_logging"
+with voice_connector_id equal to the id of the voice connector
+with enable_media_metric_logs true

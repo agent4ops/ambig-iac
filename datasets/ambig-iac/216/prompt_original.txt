@@ -1,0 +1,1 @@
+The infrastructure for a video streaming site that distribute video content globally. Accomplish this using the following resources: AWS CloudFront origin access control, AWS CloudFront distribution, AWS Route53 zone, and AWS S3 record. Add any necessary resources.

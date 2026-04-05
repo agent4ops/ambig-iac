@@ -1,0 +1,1 @@
+I need an automated build setup that pulls code from our repo, runs tasks in a controlled environment, and keeps the outputs and any reusable build data organized so things run quickly and reliably.

@@ -1,0 +1,13 @@
+Has "aws_neptune_cluster"
+with "neptune_cluster_parameter_group_name"
+
+Has "aws_neptune_cluster_parameter_group"
+with family = "neptune1.2"
+
+Has "aws_neptune_cluster_instance"
+with "cluster_identifier"
+with "neptune_parameter_group_name"
+with "publicly_accessible" = false OR a subnet group defined
+
+Has "aws_neptune_parameter_group"
+with family = "neptune1.2"

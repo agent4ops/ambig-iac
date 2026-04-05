@@ -1,0 +1,1 @@
+I want to let one of our team members use an extra verification step when signing in, but handled entirely through software rather than relying on any physical gadget.

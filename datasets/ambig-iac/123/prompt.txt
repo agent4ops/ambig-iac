@@ -1,0 +1,1 @@
+I need a reliable way to handle a steady stream of incoming events, spread across multiple locations for resilience, and I want to be able to track what’s happening internally for troubleshooting.

@@ -1,0 +1,1 @@
+We need a long‑term storage area for rarely accessed data, and it should have strict, hard‑to‑change rules that prevent anything from being removed too soon.

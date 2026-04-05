@@ -1,0 +1,1 @@
+Has one "aws_iam_role" resource, one "aws_s3_bucket" resource, one "aws_elasticsearch_domain" resource, one "aws_vpc" resource, two "aws_subnet" resources, one "aws_security_group," and one "aws_kinesis_firehose_delivery_stream" resource with a "vpc_config" block within the "elasticsearch_configuration" block

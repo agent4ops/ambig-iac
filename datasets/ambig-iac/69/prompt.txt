@@ -1,0 +1,1 @@
+I need a secure way for certain automated workloads in our compute platform to run with just the permissions they need, without giving them broader access than necessary.

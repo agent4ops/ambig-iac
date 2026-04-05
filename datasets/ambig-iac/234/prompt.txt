@@ -1,0 +1,1 @@
+I need a small managed data store for one of our apps, and it should handle its own backups and routine upkeep within specific time windows so it doesn’t disrupt users.

@@ -1,0 +1,1 @@
+I want to track how people are using our stored files and send those insights to another place where we can review them, keeping the setup straightforward.

@@ -1,0 +1,7 @@
+Has an aws_s3_bucket resource
+
+Has an aws_s3_bucket_ownership_controls
+with bucket = bucket id
+and rule with object_ownership = "BucketOwnerPreferred"
+
+Has an aws_s3_bucket_acl

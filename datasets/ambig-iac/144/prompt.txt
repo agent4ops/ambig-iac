@@ -1,0 +1,1 @@
+I need a way to fine‑tune how long cached data sticks around so our app can balance speed and freshness without getting too complex.

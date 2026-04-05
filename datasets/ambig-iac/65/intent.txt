@@ -1,0 +1,5 @@
+has one "aws_eks_access_entry" resource
+with one "cluster_name"
+with one "principal_arn"
+with one "kubernetes_groups"
+with one "type"

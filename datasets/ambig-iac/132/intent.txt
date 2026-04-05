@@ -1,0 +1,19 @@
+Has one "aws_msk_cluster" resource
+with one "number_of_broker_nodes" = 3
+with one "logging_info"
+with one "broker_logs"
+with one "cloudwatch_logs"
+with one "enabled" = true
+with one "s3"
+with one "enabled" = true
+with one "firehose"
+with one "enabled" = true
+with one "encryption_info"
+with one "encryption_at_rest_kms_key_arn"
+with one "open_monitoring"
+with one "prometheus"
+with one "jmx_exporter"
+with one "enabled_in_broker" = true
+with one "node_exporter"
+with one "enabled_in_broker" = true
+Requires aws provider with alias of "aws" with a region of us-east-1

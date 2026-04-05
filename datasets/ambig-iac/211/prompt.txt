@@ -1,0 +1,1 @@
+I need a small always‑on machine in the cloud, and I want its data saved automatically every night without me having to manage that process myself.

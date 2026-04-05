@@ -1,0 +1,1 @@
+I need a conversational tool that can take simple food orders and should only act on a request when it’s reasonably sure what the person meant, while still being easy for people to interact with.

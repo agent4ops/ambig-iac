@@ -1,0 +1,7 @@
+Has one "aws_vpc" resource:
+with a specified "cidr_block" of "10.0.0.0/16"
+
+Has one "aws_network_acl" resource:
+linked to the "aws_vpc" resource
+with ingress rules allowing TCP traffic
+with egress rules allowing TCP traffic

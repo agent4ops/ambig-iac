@@ -1,0 +1,1 @@
+I need a way for one of our background services to reliably tap into a stream of incoming events so it can process them in real time without missing anything.

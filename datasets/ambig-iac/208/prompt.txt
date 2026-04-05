@@ -1,0 +1,1 @@
+I need a setup that can take students’ code from our class repository, run it in a controlled environment cut off from the outside world, and save the results somewhere, all without exposing anything to the open internet.

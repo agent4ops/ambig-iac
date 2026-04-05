@@ -1,0 +1,1 @@
+sets up a dedicated-tenancy AWS VPC with DNS support and hostnames enabled, an internet gateway, and a route table for outbound internet access, all tagged with a variable name.

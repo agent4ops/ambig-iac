@@ -1,0 +1,10 @@
+Has one resource "aws_s3_bucket"
+
+Has one resource "aws_kms_key"
+
+Has one resource "aws_s3_bucket_server_side_encryption"
+with bucket = bucket id OR name
+with rule
+    with apply_server_side_encryption_by_default
+        with kms_master_key_id = kms key id
+        and sse_algorithm = "aws:kms"

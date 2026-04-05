@@ -1,0 +1,1 @@
+I want a simple conversational helper that can understand when someone wants to plan a trip and guide them through it, with clear fallbacks if it gets confused.

@@ -1,0 +1,1 @@
+We need a way to funnel a high volume of incoming event data into our search and analytics system in near real time, with some kind of fallback storage in case the main pipeline slows down.

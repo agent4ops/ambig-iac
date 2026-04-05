@@ -1,0 +1,1 @@
+I need a way to stream messages reliably at scale without having to manage any machines, and it should keep working even if part of the system goes down.

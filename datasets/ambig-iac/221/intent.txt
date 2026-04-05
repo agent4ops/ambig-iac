@@ -1,0 +1,11 @@
+Has one "aws_db_instance" resource
+    with one "allocated_storage" = 200
+    with one "engine" = "mysql"
+    with one "instance_class" = "db.t3.micro"
+    with one "password"
+    with one "username"
+    with one "engine_version" = "5.7"
+
+has one security_group
+
+has one random_string

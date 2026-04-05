@@ -1,0 +1,1 @@
+I need a shared place for my app to store files, and it should automatically keep safe copies without me having to manage that myself.

@@ -1,0 +1,1 @@
+I need to set up a way for a specific person or system to safely interact with our fast in‑memory data layer, using our existing identity setup to control what they can do.

@@ -1,0 +1,1 @@
+Create an AWS S3 bucket named 'test-bucket' with preventive destruction measures, private ACLs, AES256 server-side encryption, and a public access block restricting public access.

@@ -1,0 +1,1 @@
+I need a small managed data store for an app prototype, and if we ever delete it I want to make sure we can keep a last backup without much hassle.

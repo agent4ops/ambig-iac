@@ -1,0 +1,7 @@
+Has one resource "aws_vpc"
+
+Has one resource "aws_subnet"
+with one "vpc_id" with value "aws_vpc.{VPC NAME}.id"
+
+Has another resource "aws_subnet"
+with one "vpc_id" with value "aws_vpc.{VPC NAME}.id"

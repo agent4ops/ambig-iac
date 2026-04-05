@@ -1,0 +1,1 @@
+I need a setup where students’ code can be fetched, run in a controlled environment that can’t reach the outside world, and then have the results saved somewhere for later review, all while keeping the whole thing simple and secure.

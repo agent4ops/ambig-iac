@@ -1,0 +1,1 @@
+I need a place to store our app’s data that can handle moderate workloads without costing too much, and it should be easy to set up and manage.

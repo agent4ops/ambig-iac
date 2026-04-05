@@ -1,0 +1,1 @@
+I need a private environment for our data systems that works across multiple fault zones, can reach the public internet when needed, and lets our database services accept connections openly while keeping the setup straightforward.

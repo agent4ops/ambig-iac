@@ -1,0 +1,1 @@
+Create a S3 bucket and a second S3 bucket. Then create an example logging resource for the first S3 bucket that stores logs in the second bucket. Make sure the log object keys have a prefix of "log/".

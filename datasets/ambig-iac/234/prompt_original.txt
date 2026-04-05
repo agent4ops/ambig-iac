@@ -1,0 +1,1 @@
+create AWS Lightsail that creates a mysql database. It should allow daily backups to take place between 16:00 and 16:30 each day and  requires any maintiance tasks (anything that would cause an outage, including changing some attributes) to take place on Tuesdays between 17:00 and 17:30

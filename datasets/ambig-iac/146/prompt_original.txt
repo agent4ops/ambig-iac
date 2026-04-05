@@ -1,0 +1,1 @@
+Enable point-in-time recovery for the DynamoDB table.

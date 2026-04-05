@@ -1,0 +1,1 @@
+create a bucket 'pike-680235478471'. Set up request payment configuration for an AWS S3 bucket named 'pike-680235478471', specifying the payer as 'Requester'.

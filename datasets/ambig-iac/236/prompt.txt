@@ -1,0 +1,1 @@
+I need a small managed data store set up for a side project, and I want any updates to take effect right away instead of waiting for a scheduled rollout.

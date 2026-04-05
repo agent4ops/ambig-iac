@@ -1,0 +1,1 @@
+Create an AWS VPC resource with one subnet and then launches an EC2 instance into that subnet. Use AMI lookup for an ubuntu 20.04 AMD64 server.

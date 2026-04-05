@@ -1,0 +1,1 @@
+Create an AWS S3 bucket and apply KMS server side encryption that uses a defined KMS key resource.

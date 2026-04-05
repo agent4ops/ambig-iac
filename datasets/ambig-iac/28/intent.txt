@@ -1,0 +1,1 @@
+Has one resource "aws_lex_bot" and one resource "aws_lex_intent" with followup question block (slot block and "aws_lex_slot_type" is not mandatory)

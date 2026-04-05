@@ -1,0 +1,12 @@
+Has one "aws_vpc" resource:
+Configured with a "cidr_block" of "192.168.0.0/16"
+Includes associated custom DHCP options
+
+Has one "aws_vpc_dhcp_options" resource:
+Specifies a "domain_name" of "windomain.local"
+Includes DNS servers with a combination of a custom DNS server ("192.168.56.102") and Google's DNS server ("8.8.8.8")
+Configures a "NetBIOS" name server at "192.168.56.102"
+
+Has one "aws_vpc_dhcp_options_association" resource:
+Associates the "aws_vpc_dhcp_options" with the created "aws_vpc"
+Customizes DHCP settings specifically for the created VPC environment

@@ -1,0 +1,13 @@
+have one "aws_s3_bucket" resource
+have one "aws_codebuild_project" resource
+  with "artifacts" argument block
+    with "type" argument with value "S3"
+    with "location" argument
+    with "name" argument
+  with "environment" argument block
+    with "computer_type" argument
+    with "image" argument
+    with "type" argument
+  with "source" argument block
+    with "type" argument with value "GITHUB"
+    with "location" argument

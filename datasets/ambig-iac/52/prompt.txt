@@ -1,0 +1,1 @@
+I need to pull information from a site our system can’t reach directly, and it should grab the content automatically on a regular basis while going through our own network path for security.

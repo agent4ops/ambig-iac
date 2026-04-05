@@ -1,0 +1,1 @@
+I need a shared data store that stays in sync across different locations so updates in one place show up everywhere, and it should keep working even if one area has issues.

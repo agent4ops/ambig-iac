@@ -1,0 +1,1 @@
+I need a private network for our systems where certain traffic is allowed to reach the outside world, and I want control over how that traffic leaves while keeping the setup fairly simple.

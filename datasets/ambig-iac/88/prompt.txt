@@ -1,0 +1,1 @@
+I need a way to control who can interact with our in‑memory data layer, using a setup that requires people to log in securely.

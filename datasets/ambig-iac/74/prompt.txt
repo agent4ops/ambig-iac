@@ -1,0 +1,1 @@
+I need to spin up a managed environment for running containerized workloads, and it should plug into my network and be reachable from the outside while keeping the setup straightforward and secure.

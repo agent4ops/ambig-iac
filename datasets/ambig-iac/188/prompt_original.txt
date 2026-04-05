@@ -1,0 +1,1 @@
+Create S3 bucket with bucket name = "mybucket" and an inventory configuration resource for the bucket that reports daily.

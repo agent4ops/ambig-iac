@@ -1,0 +1,1 @@
+create AWS Lightsail with WordPress blueprint

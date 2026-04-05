@@ -1,0 +1,1 @@
+I need a way to speed up repeated data lookups so our main data store doesn’t get hammered under load.

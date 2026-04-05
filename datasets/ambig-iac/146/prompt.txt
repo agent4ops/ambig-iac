@@ -1,0 +1,1 @@
+I need our data in this app to be recoverable if someone makes a bad update, so we should have a way to roll it back to an earlier state without much hassle.

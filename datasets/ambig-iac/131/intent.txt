@@ -1,0 +1,2 @@
+Has one "aws_msk_serverless_cluster" resource
+Requires aws provider with alias of "aws" with a region of us-east-2

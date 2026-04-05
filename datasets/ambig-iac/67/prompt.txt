@@ -1,0 +1,1 @@
+I need to extend our container-orchestration setup with one of the optional system components it supports so we get better networking behavior, and it should plug cleanly into the existing cluster without adding much complexity.

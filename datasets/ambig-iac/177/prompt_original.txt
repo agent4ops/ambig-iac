@@ -1,0 +1,1 @@
+Make a basic AWS IAM group example with an example group policy attachment resource attaching a policy to it

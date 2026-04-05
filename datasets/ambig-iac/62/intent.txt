@@ -1,0 +1,20 @@
+has one "aws_eks_cluster" resource
+with one "name"
+with one "role_arn"
+with one "subnet_ids" in "vpc_config"
+with multiple "depends_on" dependencies
+with multiple "local-exec" provisioners 
+with a "command"
+with a "when" 
+
+has one "aws_iam_role" resource
+with one "name"
+with one "assume_role_policy"
+
+has one "aws_iam_role_policy_attachment" resource for "eks_cluster_policy"
+with one "policy_arn"
+with one "role"
+
+has one "aws_iam_role_policy_attachment" resource for "eks_service_policy"
+with one "policy_arn"
+with one "role"

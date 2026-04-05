@@ -1,0 +1,1 @@
+I need a small always‑on workspace in the cloud, and it should automatically save its state every night so we can recover it easily if something goes wrong.

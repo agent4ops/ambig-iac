@@ -1,0 +1,13 @@
+Has one "aws_db_instance" resource
+    with one "allocated_storage" = 20
+    with one "engine" = mysql
+    with one "instance_class" and a valid instance class type
+    with one "password"
+    with one "username"
+    with skip_final_snapshot = true
+    with identifier generated from random_id
+    with password generated from random_password
+
+has one random_id resrource
+
+has one random_password resource

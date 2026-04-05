@@ -1,0 +1,1 @@
+Infrastructure for an autograder for a CS class. The autograde needs to run students' code stored on GitHub in a specific environment and store the result. Make sure that the autograder prevents the students' code from reaching the internet. Accomplish this using AWS CodeBuild and AWS VPC.

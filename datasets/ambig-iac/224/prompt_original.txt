@@ -1,0 +1,1 @@
+defines an AWS RDS option group named "option-group-pike" with major engine version 11, and use the sqlserver-ee engine. It should have options for "SQLSERVER_AUDIT" and "TDE". IAM_ROLE_ARN and S3_BUCKET_ARN are included under SQLSERVER_AUDIT option

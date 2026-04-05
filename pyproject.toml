@@ -1,0 +1,16 @@
+[project]
+name = "ambig-iac"
+version = "0.1.0"
+description = "Multi-level Disambiguation for Interactive Cloud Infrastructure-as-Code Synthesis"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "networkx>=3.6.1",
+    "numpy>=1.26.0",
+    "openai>=2.21.0",
+    "pydot>=4.0.1",
+    "rich>=14.1.0",
+    "scikit-learn>=1.5.0",
+    "sentence-transformers>=3.0.0",
+    "matplotlib>=3.8.0",
+]

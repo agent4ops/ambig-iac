@@ -1,0 +1,13 @@
+Has one "aws_vpc" resource
+    with a specified "cidr_block"
+
+Has one "aws_route53_zone" resource
+    with "name" set to "internal.example53.com"
+    with a "vpc" block that contains "vpc_id" that references the "aws_vpc" resource
+
+Has one "aws_route53_record" resource
+    with "name"
+    with "type"
+    with "ttl"
+    with "records"
+    with "zone_id" referencing the "aws_route53_zone" resource

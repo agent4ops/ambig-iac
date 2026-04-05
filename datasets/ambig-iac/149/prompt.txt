@@ -1,0 +1,1 @@
+I need a simple place to keep structured app data that stays protected at rest, and it should also let me capture any changes as they happen.

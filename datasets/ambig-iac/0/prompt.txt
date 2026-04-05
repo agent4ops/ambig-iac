@@ -1,0 +1,1 @@
+I need a way to track which lookups are being made against our domain so we can review that activity in a central place, and it should be dependable enough to use for troubleshooting later.

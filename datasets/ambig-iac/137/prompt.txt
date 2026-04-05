@@ -1,0 +1,1 @@
+I need a reliable shared data store that can keep running even if part of the system goes down, and it should have enough room for our current workload.

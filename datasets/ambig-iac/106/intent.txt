@@ -1,0 +1,1 @@
+dynamodb table -> hash_key, name, attribute (name, type) -> create a repilca with the table arn

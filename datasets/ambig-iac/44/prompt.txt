@@ -1,0 +1,1 @@
+We need a way to collect a steady stream of app events, move them reliably into our search and analytics system, and keep everything running inside our private network for security.

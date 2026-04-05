@@ -1,0 +1,1 @@
+Set up a TXT recordfor domain ownership verification purposes using Route 53 resources. The verification string should be "passwordpassword" and the name of the zone should be "example"

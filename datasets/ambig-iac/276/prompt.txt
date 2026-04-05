@@ -1,0 +1,1 @@
+I need a private network for our systems that lets them reach the wider internet when needed, keeps naming simple for anything we launch inside it, and can be labeled consistently for easier management.

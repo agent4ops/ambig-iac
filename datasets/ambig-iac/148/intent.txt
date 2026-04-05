@@ -1,0 +1,3 @@
+Has one "aws_dynamodb_table" resource
+with one "server_side_encryption"
+with one "enabled" = true

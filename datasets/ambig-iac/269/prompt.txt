@@ -1,0 +1,1 @@
+I need a small, reliable place to store structured data for an app, and I also want a way to capture a full backup of it that I can restore later if something goes wrong.

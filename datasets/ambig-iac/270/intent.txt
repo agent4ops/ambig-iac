@@ -1,0 +1,2 @@
+Have one "aws_efs_file_system" resource
+    with one tags

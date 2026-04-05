@@ -1,0 +1,1 @@
+I need a way for systems inside our internal network to look up a specific service by a stable name, and it should only be reachable from within that network.

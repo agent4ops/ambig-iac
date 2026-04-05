@@ -1,0 +1,1 @@
+Our main data store is too slow for people overseas, so I want to spread read traffic across a few copies in different parts of the world while keeping things reliable.

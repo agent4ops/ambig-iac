@@ -1,0 +1,1 @@
+We need a way to move our app’s event data into our analytics tool quickly, with a fallback so we don’t lose anything if the primary path has issues.

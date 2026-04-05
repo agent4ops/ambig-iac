@@ -1,0 +1,1 @@
+I need a place to store application data that can grow on its own as usage increases, without me having to constantly resize anything.

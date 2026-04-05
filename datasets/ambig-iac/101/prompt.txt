@@ -1,0 +1,1 @@
+I want a single place that warns me when one of my existing performance checks starts looking bad, so I don’t have to monitor each one separately.

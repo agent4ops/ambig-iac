@@ -1,0 +1,1 @@
+create an AWS database that enables storage autoscaling

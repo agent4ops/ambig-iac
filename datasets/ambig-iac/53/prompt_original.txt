@@ -1,0 +1,1 @@
+Generate a Kendra data source resource With URL Exclusion and Inclusion Patterns

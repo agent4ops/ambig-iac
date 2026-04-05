@@ -1,0 +1,1 @@
+I need a private area in our cloud where a few systems can run, and I want tight control over what kind of traffic can come in or go out for security reasons.

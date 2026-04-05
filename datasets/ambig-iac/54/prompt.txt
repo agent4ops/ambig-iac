@@ -1,0 +1,1 @@
+I need a searchable place for all our internal content, and it should understand a few basic details about each item so results feel reasonably relevant without me having to fine‑tune anything.

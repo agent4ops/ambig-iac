@@ -1,0 +1,1 @@
+I need to spin up a managed container environment that can reach the rest of our cloud network, and it should be reachable from outside our private network while keeping the setup simple and secure.

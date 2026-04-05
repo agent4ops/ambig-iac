@@ -1,0 +1,13 @@
+Has one "aws_iam_group" resource
+with one "name" with any value
+
+Has one "aws_iam_user" resource
+with one "name" with any value
+
+Has another "aws_iam_user" resource
+with one "name" with any value
+
+Has one "aws_iam_group_membership" resource
+with one "name" with any value
+with one "users" with the two user resource names
+with one "group" with the group resource name

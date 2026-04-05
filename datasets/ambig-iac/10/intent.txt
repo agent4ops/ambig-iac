@@ -1,0 +1,9 @@
+Has one "aws_route53_zone" resource
+    with "name" ending in ".in-addr.arpa"
+
+Has one "aws_route53_record" resource
+    with "name"
+    with "type" set to "PTR"
+    with "ttl"
+    with "records"
+    with "zone_id" referencing the "aws_route53_zone" resource

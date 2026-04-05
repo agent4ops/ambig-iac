@@ -1,0 +1,4 @@
+Has an aws_s3_bucket
+
+Has an aws_s3_bucket_public_access
+with bucket = bucket id OR name

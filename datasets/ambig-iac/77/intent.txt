@@ -1,0 +1,7 @@
+has one aws_s3_bucket resource
+with bucket
+
+has one "aws_s3_bucket_versioning" resource
+     with bucket
+     with versionaning_configuration
+          with status

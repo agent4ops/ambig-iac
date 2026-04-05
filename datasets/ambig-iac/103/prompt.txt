@@ -1,0 +1,1 @@
+I want to get better visibility into how my data store is being used so I can spot unusual activity or performance issues, and I’d like this to work without adding much operational overhead.

@@ -1,0 +1,1 @@
+I need a reliable way to collect activity data from our messaging system and funnel it into a storage setup for later analysis, and it should all run in one of our main regions while keeping the network setup straightforward and secure.

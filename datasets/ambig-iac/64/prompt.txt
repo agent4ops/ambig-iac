@@ -1,0 +1,1 @@
+I need to make sure some of our system-level services in the cluster can run in an isolated, pay‑as‑you‑go compute setup, and also apply a small configuration tweak to one of the built‑in components once that environment is ready, keeping everything tied cleanly into the network we already have.

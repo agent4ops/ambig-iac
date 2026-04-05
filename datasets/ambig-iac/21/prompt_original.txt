@@ -1,0 +1,1 @@
+create a AWS codebuild project resource with example iam role, example GITHUB source, and a logs config

@@ -1,0 +1,1 @@
+I need a managed place to run large analytical queries, and I want to get alerted whenever something important happens there so we can react quickly.

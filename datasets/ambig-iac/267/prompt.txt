@@ -1,0 +1,1 @@
+I need a simple managed data store set up so that its main login details are handled automatically and kept secure without me having to manage them manually.

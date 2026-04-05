@@ -1,0 +1,2 @@
+Has one "aws_iam_virtual_mfa_device" resource
+with one "virtual_mfa_device_name" with any string

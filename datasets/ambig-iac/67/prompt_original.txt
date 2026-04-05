@@ -1,0 +1,1 @@
+Generate a Terraform script to add an addon with name "example", to an AWS EKS cluster. Define a resource that specifies the cluster's name and sets the addon name to 'vpc-cni'.

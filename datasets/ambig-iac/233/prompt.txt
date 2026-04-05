@@ -1,0 +1,1 @@
+I need a small, easy-to-manage place to run a basic data store for an app, something lightweight that won’t require much upkeep but is still secure and reliable.

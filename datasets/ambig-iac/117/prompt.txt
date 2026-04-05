@@ -1,0 +1,1 @@
+I need a way to ensure that access to our shared in-memory data store is locked down so only clients with the right secret can use it.

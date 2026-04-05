@@ -1,0 +1,1 @@
+I want an automated build setup that can pull in code from more than one place and run in a locked‑down environment, keeping things as simple as possible.

@@ -1,0 +1,1 @@
+I want to put a single entry point in front of my app so incoming requests hit one place first and then get passed along to whatever is actually running the workload, and it should stay simple while still being able to handle public traffic reliably.

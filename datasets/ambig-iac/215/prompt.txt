@@ -1,0 +1,1 @@
+I need our video site to load quickly for people in many different regions, with the files stored in one place but delivered in a way that keeps things fast and reliable even during heavy traffic.

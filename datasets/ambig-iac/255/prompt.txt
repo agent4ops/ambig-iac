@@ -1,0 +1,1 @@
+I need a lightweight, reliable place for my app to store structured data, nothing fancy, just something easy to run and maintain.

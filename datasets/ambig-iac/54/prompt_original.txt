@@ -1,0 +1,1 @@
+Generate a basic Kendra index resource with the default Document Metadata Configuration Updates

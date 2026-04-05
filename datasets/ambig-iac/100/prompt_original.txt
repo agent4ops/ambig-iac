@@ -1,0 +1,1 @@
+Create a Lambda Layer Version resource from "lambda_layer_payload.zip"

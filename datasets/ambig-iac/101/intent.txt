@@ -1,0 +1,1 @@
+Creates an aws_cloudwatch_composite_alarm which requires at least one other aws_cloudwatch_metric_alarm

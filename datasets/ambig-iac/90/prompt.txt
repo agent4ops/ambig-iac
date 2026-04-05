@@ -1,0 +1,1 @@
+I need to make sure one of our app’s user accounts is included in the right collection of permissions so it can access shared data safely without over‑privilege.

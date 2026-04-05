@@ -1,0 +1,1 @@
+Has one "aws_iam_role" resource, and one "aws_kinesisanalyticsv2_application" with argument runtime_environment != "SQL-1_0"

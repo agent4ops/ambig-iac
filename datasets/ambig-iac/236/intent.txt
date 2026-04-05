@@ -1,0 +1,8 @@
+"have one ""aws_lightsail_database"" resource
+    with relational_database_name argument
+    with master_database_name 
+    with master_password
+    with master_username
+    with blueprint_id = postgres_12
+    with bundle_id
+    apply_immediately  = true

@@ -1,0 +1,9 @@
+Has one "aws_route53_zone" resource
+    with "name" set to "example53.com"
+
+Has one "aws_route53_record" resource
+    with "name"
+    with "type"
+    with "ttl"
+    with "records"
+    with "zone_id" referencing the "aws_route53_zone" resource

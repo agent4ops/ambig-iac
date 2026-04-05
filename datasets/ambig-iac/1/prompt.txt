@@ -1,0 +1,1 @@
+I need to make sure one of our internal name‑lookup setups can be used from more than one private network, and it should work even as we add or remove networks over time.

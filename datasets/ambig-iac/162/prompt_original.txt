@@ -1,0 +1,1 @@
+Create two AWS Chime Voice Connectors, both with encryption. Then create an aws_chime_voice_connector_group resource with each connector as a connector argument

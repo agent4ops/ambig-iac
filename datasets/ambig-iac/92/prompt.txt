@@ -1,0 +1,1 @@
+I need a data warehouse that can handle spikes in demand but only for a short, controlled period so costs don’t get out of hand.

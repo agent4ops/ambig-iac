@@ -1,0 +1,1 @@
+I need a way to handle streams of messages reliably without having to manage any machines, and it should run in a region close to our users.

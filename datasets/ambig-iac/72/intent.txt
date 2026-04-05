@@ -1,0 +1,19 @@
+has one "data" block for "aws_iam_policy_document" named "assume_role"
+with one "statement" block containing:
+one "effect"
+one "principals" block with "type" and "identifiers"
+one "actions" list
+
+has one "aws_iam_role" resource named "example"
+with one "name"
+with one "assume_role_policy" referencing the data block
+
+has one "aws_iam_role_policy_attachment" resource named "example_s3"
+with one "policy_arn"
+with one "role" referencing the "aws_iam_role.example.name"
+
+has one "aws_eks_pod_identity_association" resource named "example"
+with one "cluster_name"
+with one "namespace"
+with one "service_account"
+with one "role_arn" referencing the "aws_iam_role.example.arn"

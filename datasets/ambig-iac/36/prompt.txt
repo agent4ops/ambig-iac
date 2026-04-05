@@ -1,0 +1,1 @@
+I need a simple setup that can watch a continuous flow of event data and run some lightweight processing on it in a reliable, low‑maintenance way.

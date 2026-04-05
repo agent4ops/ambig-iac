@@ -1,0 +1,1 @@
+I need a small always‑on compute environment for some lightweight tasks, and it should automatically save daily restore points without me having to manage that manually.

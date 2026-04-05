@@ -1,0 +1,1 @@
+I need an automated build setup that can pull in more than one codebase and produce multiple outputs, all while keeping things organized and secure.

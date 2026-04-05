@@ -1,0 +1,1 @@
+I need a private network for our systems that can reach the outside world in a controlled, outbound‑only way, while keeping things simple and secure.

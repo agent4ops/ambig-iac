@@ -1,0 +1,1 @@
+I need two separate private environments to talk to each other directly so that apps in each one can share data smoothly, and it should stay simple while keeping things organized for whoever manages it.

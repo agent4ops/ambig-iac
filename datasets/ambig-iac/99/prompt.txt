@@ -1,0 +1,1 @@
+I need a data warehouse that can handle bigger analytical workloads, and it should be reachable from inside our private network so our other systems can work with it securely.

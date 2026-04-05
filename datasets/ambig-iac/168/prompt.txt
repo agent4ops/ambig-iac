@@ -1,0 +1,1 @@
+I need a secure way to handle our call audio and have it captured for a short window, with alerts sent out when new data shows up, but without pushing that data into our real‑time analytics system.

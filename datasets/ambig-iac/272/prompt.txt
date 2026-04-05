@@ -1,0 +1,1 @@
+I need a shared space for files that multiple parts of our system can work with, and it should only be usable in a secure way.

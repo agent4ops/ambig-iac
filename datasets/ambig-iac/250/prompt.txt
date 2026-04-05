@@ -1,0 +1,1 @@
+We need a place to keep long‑term data that’s rarely touched, and it should have some basic rules about who can retrieve it so we stay compliant.

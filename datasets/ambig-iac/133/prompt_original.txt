@@ -1,0 +1,1 @@
+Create a MSK with 3 broker nodes outputting to a CloudWatch log group, an S3 bucket, a Kinesis Firehose delivery stream. The MSK should encryption at rest, open monitoring. Creates an MSK Connect custom plugin using a "debezium.zip" and finally create an MSK Connect connector that uses the custom plugin and connects to the MSK cluster

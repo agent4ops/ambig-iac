@@ -1,0 +1,4 @@
+Has one "aws_db_option_group" resource
+    with one "engine_name" = "sqlserver-ee"
+    with one "major_engine_version" = "11.00"
+    with options for "SQLSERVER_AUDIT" and "TDE"

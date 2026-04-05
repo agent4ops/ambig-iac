@@ -1,0 +1,1 @@
+Enable contributor insights on a table named "ExampleTableName"

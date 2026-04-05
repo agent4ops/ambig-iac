@@ -1,0 +1,1 @@
+I need a reliable place to store our app’s data that can handle a lot of traffic, stay available if part of the system goes down, and keep regular backups without much manual work.

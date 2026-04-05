@@ -1,0 +1,1 @@
+I need a shared place for my apps to keep files so they can all read and write to the same spot, and it should be reachable from inside our private network.

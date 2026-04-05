@@ -1,0 +1,1 @@
+I want all the systems inside our private network to automatically use a specific set of name lookups, so we don’t have to configure that manually on each machine.

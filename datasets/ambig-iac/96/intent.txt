@@ -1,0 +1,1 @@
+Create a VPC, create internet_gateway,create 2 subnets (1 in east1a and 1 in east1b) then create a redshift_subnet_group

@@ -1,0 +1,1 @@
+authenticate a elasticache user with passwords

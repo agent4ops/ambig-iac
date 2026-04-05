@@ -1,0 +1,1 @@
+I need a small app server with some extra space for files, and the extra storage should be attached so the server can use it directly.

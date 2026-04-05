@@ -1,0 +1,1 @@
+We need a way to funnel high‑volume app data into long‑term storage automatically, with something that can smooth out traffic spikes and keep things reliable without much manual work.

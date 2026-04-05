@@ -1,0 +1,1 @@
+Create a DynamoDB Global Table and create a replica of the table

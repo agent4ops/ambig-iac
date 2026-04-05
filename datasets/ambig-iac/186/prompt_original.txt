@@ -1,0 +1,1 @@
+Create S3 bucket with bucket name = "mybucket". Add analytics configuration for entire S3 bucket and export results to a second S3 bucket. Use bucket references, NOT the names of the buckets.

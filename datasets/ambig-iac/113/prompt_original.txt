@@ -1,0 +1,1 @@
+Create the latest Amazon Linux 2 AMI

@@ -1,0 +1,5 @@
+has one "aws_eks_access_policy_association" resource
+with one "cluster_name"
+with one "policy_arn"
+with one "principal_arn"
+with one "access_scope"

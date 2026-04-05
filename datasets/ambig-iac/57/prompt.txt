@@ -1,0 +1,1 @@
+I need my main domain to direct visitors to a specific place where our app is running, keeping the setup straightforward.

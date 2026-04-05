@@ -1,0 +1,1 @@
+I want to keep track of activity in one storage area by having it write its history to another place, and I’d like all those history files grouped under a common label.

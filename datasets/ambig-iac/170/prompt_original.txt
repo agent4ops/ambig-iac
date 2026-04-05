@@ -1,0 +1,1 @@
+Create an AWS VPC resource with two AWS subnets. Group these subnets in an AWS Redshift subnet group. Create an example basic AWS Redshift cluster and an AWS Redshift endpoint access with this subnet group attached to the cluster.

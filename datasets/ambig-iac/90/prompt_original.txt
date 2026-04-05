@@ -1,0 +1,1 @@
+Associate an existing ElastiCache user and an existing user group.

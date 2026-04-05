@@ -1,0 +1,1 @@
+I need a way for different parts of our system to pass high‑volume messages to each other reliably, without having to manage any servers, and it should be set up in a way that keeps working even if one area of the region has issues.

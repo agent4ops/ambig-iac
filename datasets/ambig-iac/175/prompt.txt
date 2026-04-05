@@ -1,0 +1,1 @@
+I need a managed data warehouse for analytics that follows some custom behavioral rules, and I want to be notified whenever anything noteworthy happens with those rules so we can react quickly.

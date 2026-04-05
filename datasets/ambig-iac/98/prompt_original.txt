@@ -1,0 +1,1 @@
+Create a 2-node RedShift cluster and attach a resource policy to it.

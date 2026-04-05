@@ -1,0 +1,1 @@
+Create an AWS aws_ami resource for the latest Amazon Linux 2 AMI

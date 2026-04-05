@@ -1,0 +1,1 @@
+I need a super‑fast way to keep frequently used data close to my app so reads don’t slow everything down, and it should work without a lot of manual tuning.

@@ -1,0 +1,1 @@
+I need a way for resources in one of our internal networks to reach the outside world using modern addressing, but without exposing them to unsolicited access, and it should be easy to keep track of.

@@ -1,0 +1,1 @@
+I need to make sure that a place where we keep files isn’t accidentally exposed to the outside world, and it should default to being as locked down as possible.

@@ -1,0 +1,1 @@
+I need to set up a way for an application to connect to our shared in‑memory data store using its own login so we can control exactly what it’s allowed to do.

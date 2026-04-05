@@ -1,0 +1,10 @@
+Has one resource "aws_s3_bucket"
+
+Has one resource "aws_sns_topic"
+
+Has one resource "aws_s3_bucket_notification"
+with bucket = bucket id OR name
+with topic
+    with topic arn = sns topic arn 
+    and events = ["s3:ObjectCreated:*"]
+    and filter_suffix = ".log"

@@ -1,0 +1,1 @@
+I need a small, dependable data store set up, and I want its access details handled automatically in a secure way using our own encryption settings.

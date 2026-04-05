@@ -1,0 +1,1 @@
+I need some extra storage that I can attach to a small, low‑maintenance server, and it should live close to where that server runs.

@@ -1,0 +1,1 @@
+Create a bucket "sample". Implement versioning resource for the AWS S3 bucket named 'sample' with the versioning status set to 'Enabled' and specify the expected_bucket_owner as '123456789012' to ensure ownership consistency.

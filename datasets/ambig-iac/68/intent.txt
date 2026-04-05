@@ -1,0 +1,6 @@
+has one "aws_eks_fargate_profile" resource
+with one "cluster_name"
+with one "fargate_profile_name"
+with one "pod_execution_role_arn"
+with one "subnet_ids"
+with one "selector" containing "namespace"

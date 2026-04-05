@@ -1,0 +1,1 @@
+Configure a routing policy that navigates users to the least congested endpoint of a route 53 zone using Route 53 resources. Call the zone "primary" and use "us-east-1" and "eu-central-1" regions

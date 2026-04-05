@@ -1,0 +1,1 @@
+Create an AWS Redshift cluster with an AWS Redshift event subscription resource that sends events to an AWS SNS topic

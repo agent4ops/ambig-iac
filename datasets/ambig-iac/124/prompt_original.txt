@@ -1,0 +1,1 @@
+Create a managed MSK cluster in us-east1 logging to S3 bucket.

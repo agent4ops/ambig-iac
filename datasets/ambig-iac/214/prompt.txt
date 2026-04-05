@@ -1,0 +1,1 @@
+I need a way to deliver our site’s video content so that people around the world can load it quickly, while keeping things simple and making sure it only works in the countries we support.

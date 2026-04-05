@@ -1,0 +1,1 @@
+I need to let an external authentication system securely verify who can access my container platform, and I want this to plug into the cluster’s built‑in access controls without adding too much complexity.

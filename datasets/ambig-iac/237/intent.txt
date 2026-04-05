@@ -1,0 +1,4 @@
+have one aws_lightsail_disk resource
+    with name
+    with size_in_gb
+    with availability_zone

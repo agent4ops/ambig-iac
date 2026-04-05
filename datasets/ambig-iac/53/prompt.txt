@@ -1,0 +1,1 @@
+I need a system that can scan information from a site we point it to, but only pay attention to certain parts of it while ignoring others, and it should be easy to control what gets included or skipped.

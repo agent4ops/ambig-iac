@@ -1,0 +1,1 @@
+We need a way to send our app’s event data to an external monitoring service in near real‑time, with a fallback so nothing gets lost if the service slows down or goes offline.

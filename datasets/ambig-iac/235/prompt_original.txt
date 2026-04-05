@@ -1,0 +1,1 @@
+AWS Lightsail that creates a postgres database, which enable creating a final snapshot of your database on deletion

@@ -1,0 +1,1 @@
+I want our main domain to be reachable using modern addressing so people on newer networks can access it reliably.

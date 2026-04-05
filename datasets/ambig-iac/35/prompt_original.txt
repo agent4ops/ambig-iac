@@ -1,0 +1,1 @@
+Generate a basic Amazon Kinesis stream

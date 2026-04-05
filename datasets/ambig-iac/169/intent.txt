@@ -1,0 +1,5 @@
+Has one resource "aws_chime_voice_connector"
+
+Has one resource "aws_chime_voice_connector_streaming"
+with voice_connector_id equal to the id of the voice connector
+with data_retention to some number

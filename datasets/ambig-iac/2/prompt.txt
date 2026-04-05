@@ -1,0 +1,1 @@
+I need our site to show up at our main domain and automatically direct visitors to whatever is handling the traffic behind it, and it should stay reliable even if demand spikes.

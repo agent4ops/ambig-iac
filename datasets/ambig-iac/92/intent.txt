@@ -1,0 +1,1 @@
+Has an aws_redshift_cluster resource and check cluster_type is "single_node" or number of nodes is 2, check there is a aws_redshift_usage_limit resouce where the feature type is concurrency_scaling, limit_type is "time", and amount is 60

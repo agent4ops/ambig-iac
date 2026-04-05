@@ -1,0 +1,1 @@
+I need to set things up so a high‑speed caching layer can run inside our private network and stay available even if part of that network has issues.

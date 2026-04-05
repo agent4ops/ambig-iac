@@ -1,0 +1,1 @@
+I need our internal network to automatically point new machines to the name resolvers we prefer, and keep things organized with a simple tag for permissions.

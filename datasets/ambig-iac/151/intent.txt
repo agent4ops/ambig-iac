@@ -1,0 +1,4 @@
+Has one resource "aws_vpc"
+
+Has one resource "aws_internet_gateway"
+with one "vpc_id" with value "aws_vpc.{VPC NAME}.id"

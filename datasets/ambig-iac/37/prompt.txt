@@ -1,0 +1,1 @@
+I need to run some continuous data processing logic that can handle streaming workloads reliably, and it should run in a managed environment so I don’t have to deal with the underlying servers.

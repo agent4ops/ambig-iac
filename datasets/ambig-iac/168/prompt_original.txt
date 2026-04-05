@@ -1,0 +1,1 @@
+Create an AWS Chime Voice Connector with encryption. Then configure the streaming of the voice connector with retention period of 5 hours, notifications sent to SNS, and disable streaming to Amazon Kinesis.

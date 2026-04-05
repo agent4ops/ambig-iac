@@ -1,0 +1,1 @@
+I need a way for systems in our private network to reach outside services using modern addressing, but without opening them up to being contacted from the outside.

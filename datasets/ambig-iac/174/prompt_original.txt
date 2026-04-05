@@ -1,0 +1,1 @@
+Create an AWS Redshift cluster with example cluster parameters and notifications on events associated with the parameter group

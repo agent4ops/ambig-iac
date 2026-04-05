@@ -1,0 +1,1 @@
+I need our data store to stay fast and available for people across the country, even if one area has an outage.

@@ -1,0 +1,1 @@
+I need a place to store files, and I also want an automated report generated regularly about everything in there so we can keep track of what’s stored without having to scan it manually.

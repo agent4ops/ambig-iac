@@ -1,0 +1,1 @@
+Has one "aws_iam_role" resource, one "aws_s3_bucket" resource, and one "aws_codebuild_project" resource with a "cache" block, at least one "environment_variable" within the "environment" block, and the "type" argument within the "source" block equal to "GITHUB"

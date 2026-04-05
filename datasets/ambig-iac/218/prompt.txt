@@ -1,0 +1,1 @@
+I need a small database set up for testing, and its access details should be created automatically so I don’t have to pick them myself.

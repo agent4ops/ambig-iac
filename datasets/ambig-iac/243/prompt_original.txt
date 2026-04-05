@@ -1,0 +1,1 @@
+managing an AWS Lightsail Distribution with bucket as the origin

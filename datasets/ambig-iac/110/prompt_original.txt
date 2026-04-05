@@ -1,0 +1,1 @@
+Configure on-demand capacity mode for a DynamoDB table.

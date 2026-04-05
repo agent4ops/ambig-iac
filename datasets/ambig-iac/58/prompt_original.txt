@@ -1,0 +1,1 @@
+Set up a non-alias aws_route_53 record that is linked to an aws_route53_zone resource called "private_zone" whose name paramter is set to "internal.example53.com" and has an aws_vpc resource called "main" attached to it

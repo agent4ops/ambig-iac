@@ -1,0 +1,1 @@
+I need a searchable knowledge hub for our internal content, and it should understand who’s allowed to see what based on our existing team structure.

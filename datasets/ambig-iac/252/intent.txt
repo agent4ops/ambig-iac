@@ -1,0 +1,7 @@
+has one "aws_glacier_vault" resource
+     with "name" attribute
+     with "access_policy" attributr
+
+implicit:
+has one "aws_iam_policy_document" data
+has one "aws_glacier_vault_lock" resource

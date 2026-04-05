@@ -1,0 +1,2 @@
+Has one "aws_route53_traffic_policy" resource
+    with "name"

@@ -1,0 +1,1 @@
+Create an AWS Chime Voice Connector. Then create an AWS Chime Voice Connector Logging resource with enable_sip_logs disabled and enable_media_metric_logs enabled

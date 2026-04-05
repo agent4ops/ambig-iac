@@ -1,0 +1,1 @@
+I need to prove that we control our domain by adding a small piece of text that an external service can check, and it should be easy to update later if needed.

@@ -1,0 +1,24 @@
+Has one "aws_route53_zone" resource
+    with "name"
+
+Has a "aws_db_instance" resource
+    with "identifier" set to "primary"
+    with "instance_class"
+    with "allocated_storage"
+    with "engine"
+    with "username"
+    with "password"
+    with "backup_retention_period" set to a non-zero number
+
+Has multiple "aws_db_instance" resources
+    with "identifier"
+    with "replicate_source_db" referencing the main "aws_db_instance" resource
+    with "instance_class"
+
+Has multiple "aws_route53_record" resources
+    with "name"
+    with "type"
+    with "ttl"
+    with "zone_id" referencing the "aws_route53_zone" resource
+    with "weighted_routing_policy" block that contains "weight" as a non-zero number
+    with "records" containing an endpoint of a corresponding replica of the main "aws_db_instance"

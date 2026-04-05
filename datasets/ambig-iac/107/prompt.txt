@@ -1,0 +1,1 @@
+I need a way to speed up access to some frequently-used data so our app feels more responsive, but I want to keep the setup as small and simple as possible.

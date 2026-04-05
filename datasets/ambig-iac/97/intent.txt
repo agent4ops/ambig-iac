@@ -1,0 +1,1 @@
+Create a aws_iam_role, aws_redshift_cluster, and attach the role to the cluster

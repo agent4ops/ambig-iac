@@ -1,0 +1,2 @@
+Has one "aws_msk_cluster" resource
+with one "number_of_broker_nodes" = 3

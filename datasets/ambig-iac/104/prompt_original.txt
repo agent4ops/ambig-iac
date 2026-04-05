@@ -1,0 +1,1 @@
+Create a DynamoDB table with custom read capacity = 20 and write capacity = 20.

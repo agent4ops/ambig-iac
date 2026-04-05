@@ -1,0 +1,7 @@
+Has one "aws_vpc" resource:
+with a specified "cidr_block" of "10.0.0.0/16"
+with "enable_dns_hostnames" set to true
+
+
+Has one "aws_internet_gateway" resource:
+with "vpc_id" referencing the "aws_vpc" resource by its ID

@@ -1,0 +1,5 @@
+Has an aws_s3_bucket
+
+Has an aws_s3_bucket_versioning
+with bucket = bucket id OR name
+with versioning_configuration = { status = "Disabled" } 

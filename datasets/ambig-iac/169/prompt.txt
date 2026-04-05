@@ -1,0 +1,1 @@
+We need a way for our call system to securely handle live audio and also feed those conversations into a stream we can analyze in near‑real time.

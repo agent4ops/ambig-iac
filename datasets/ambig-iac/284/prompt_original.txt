@@ -1,0 +1,1 @@
+creates an egress-only internet gateway associated with a specified VPC, allowing IPv6-enabled instances to connect to the internet without allowing inbound internet traffic

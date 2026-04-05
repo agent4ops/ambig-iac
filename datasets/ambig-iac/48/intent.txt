@@ -1,0 +1,1 @@
+Has one "aws_kinesis_stream" resource and one "aws_kinesis_stream_consumer" resource

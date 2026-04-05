@@ -1,0 +1,1 @@
+Create S3 bucket with bucket name = "mybucket". Add intelligent tiering configuration resource for the bucket.

@@ -1,0 +1,1 @@
+I need a shared analytics workspace that can handle heavier queries, and I also need to let a specific outside account connect to it securely.

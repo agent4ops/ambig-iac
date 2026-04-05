@@ -1,0 +1,1 @@
+creates a VPC with a CIDR block of 10.0.0.0/16 and an internet gateway in the AWS us-east-2 region, both tagged with names "vpc" and "ig" respectively.

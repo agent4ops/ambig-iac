@@ -1,0 +1,1 @@
+I need a simple way to take in continuous chunks of data so other parts of the system can process them reliably, and it should work even if the volume fluctuates a bit.

@@ -1,0 +1,1 @@
+I need a clean way to bundle some shared code so multiple functions can reuse it without duplicating anything.

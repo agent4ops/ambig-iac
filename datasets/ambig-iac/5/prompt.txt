@@ -1,0 +1,1 @@
+I need to spread read traffic across a couple of copies of our main database so things stay fast and reliable, and I want to be able to nudge more users toward one copy than the other.

@@ -1,0 +1,1 @@
+I need to add a small sample entry into one of our structured data stores so we can test how our app reads and writes information, keeping the setup simple.

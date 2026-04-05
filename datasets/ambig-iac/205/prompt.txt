@@ -1,0 +1,1 @@
+I need a setup where students’ code from our class repository can be pulled down, run in a controlled environment, and have the results saved somewhere, and it should all work reliably without much manual involvement.

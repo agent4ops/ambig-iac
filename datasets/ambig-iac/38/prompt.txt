@@ -1,0 +1,1 @@
+We need a way to take in a steady stream of app events, clean them up on the fly, and store them in a long‑term place where the files are automatically organized by things like who they belong to and when they arrived, all while keeping it flexible enough to rearrange later if our data patterns change.

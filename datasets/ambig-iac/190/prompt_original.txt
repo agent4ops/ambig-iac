@@ -1,0 +1,1 @@
+Create an AWS S3 bucket and send a SNS notification whenever a .log object is created in the bucket. Do not include policies required for this.

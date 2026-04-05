@@ -1,0 +1,1 @@
+Create a cluster with dax.r4.large and replication factor = 1.

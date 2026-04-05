@@ -1,0 +1,1 @@
+I want to set up a small team with shared access rules so they all get the same permissions without having to manage each person individually.

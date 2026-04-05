@@ -1,0 +1,1 @@
+I need an automated setup that can take code from our repo, run whatever build steps we define, bundle the output somewhere durable, and also be able to run several builds at once without breaking our limits.

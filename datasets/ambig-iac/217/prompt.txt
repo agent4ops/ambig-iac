@@ -1,0 +1,1 @@
+I want to make some static site content load quickly for people in a few specific countries, serve it under our own domain, and still keep things simple and inexpensive to run.

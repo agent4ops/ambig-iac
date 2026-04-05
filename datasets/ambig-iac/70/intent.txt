@@ -1,0 +1,6 @@
+has one "aws_eks_identity_provider_config" resource
+with one "cluster_name"
+with one "oidc" block containing:
+one "client_id"
+one "identity_provider_config_name"
+one "issuer_url"

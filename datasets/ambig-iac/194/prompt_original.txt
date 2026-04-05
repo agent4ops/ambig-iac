@@ -1,0 +1,1 @@
+Create a S3 bucket with a CORS configuration that allows POSTs and GETs from my website "https://domain.com".

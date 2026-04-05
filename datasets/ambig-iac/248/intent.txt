@@ -1,0 +1,7 @@
+has one "aws_glacier_vault" resource
+     with "name" attribute
+     with "notification" attribute
+          with "event" attribute
+          with "sns_topic" attribute
+
+with "aws_sns_topic" resource

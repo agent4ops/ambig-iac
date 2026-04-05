@@ -1,0 +1,1 @@
+Has one resource "aws_lex_bot" with 5 different intent blocks and 5 different "aws_lex_intent" resources

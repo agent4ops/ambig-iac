@@ -1,0 +1,1 @@
+I need a small test database that I can reach from anywhere, with its own login details generated automatically so I don’t have to manage them myself.

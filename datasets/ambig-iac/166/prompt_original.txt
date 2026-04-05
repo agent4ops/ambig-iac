@@ -1,0 +1,1 @@
+Create an AWS Chime Voice Connector. Then create an AWS Chime Voice Connector Logging resource with logging of ONLY media metrics

@@ -1,0 +1,1 @@
+generate an S3 Glacier vault with notification service

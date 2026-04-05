@@ -1,0 +1,1 @@
+Create a S3 bucket and a configuration that stores server access logs into a second S3 bucket.

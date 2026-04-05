@@ -1,0 +1,1 @@
+creates a 200 GB 5.7 MySQL database instance on AWS RDS with db.t3.micro instance class, a public access security group and a randomly generated password.

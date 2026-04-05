@@ -1,0 +1,1 @@
+We need a way to stream our app’s event data into a search and analytics system in near‑real time, with a fallback location for anything that can’t be processed right away.

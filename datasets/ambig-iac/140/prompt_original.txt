@@ -1,0 +1,1 @@
+Create a DynamoDB table with replicas in us-east-2 and us-west-2

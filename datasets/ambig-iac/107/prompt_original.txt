@@ -1,0 +1,1 @@
+Create a DAX cluster with node type = dax.r4.large and replication factor = 1.

@@ -1,0 +1,1 @@
+I need a simple way to serve content quickly from a place where I store files, and it should handle a variety of request types without costing too much or getting overly complex.

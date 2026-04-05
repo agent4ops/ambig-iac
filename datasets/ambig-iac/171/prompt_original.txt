@@ -1,0 +1,1 @@
+Create an AWS Redshift cluster with endpoint access from two subnets

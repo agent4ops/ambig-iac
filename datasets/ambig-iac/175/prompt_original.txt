@@ -1,0 +1,1 @@
+Create an AWS Redshift cluster with an example AWS Redshift parameter group resource attached with an AWS Redshift event subscription resource that sends events associated with the parameter group to an AWS SNS topic.

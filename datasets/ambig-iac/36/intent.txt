@@ -1,0 +1,1 @@
+Has one "aws_kinesis_analytics_application" resource with one "aws_kinesis_stream" resource as an input

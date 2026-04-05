@@ -1,0 +1,22 @@
+Has one "aws_vpc" resource:
+Includes a "cidr_block" for network configuration
+
+Has two "aws_subnet" resources:
+Both subnets are part of the "aws_vpc" resource
+Each subnet is located in a different availability zone
+
+Has one "aws_internet_gateway" resource:
+Attached to the "aws_vpc" resource
+
+Has one "aws_route_table" resource:
+Associated with the "aws_vpc"
+Contains a default route that directs traffic to the "aws_internet_gateway"
+Applied to both subnets to enable internet access
+
+Has one "aws_security_group" resource:
+Associated with the "aws_vpc"
+Configured to allow inbound traffic on the default ports for MySQL (TCP 3306) and PostgreSQL (TCP 5432) from any IP address
+
+Has one "aws_db_subnet_group" resource:
+Includes both "aws_subnet" resources
+Facilitates the placement of databases in the specified subnets

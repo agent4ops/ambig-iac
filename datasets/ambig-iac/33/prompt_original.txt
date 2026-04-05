@@ -1,0 +1,1 @@
+create an aws_lex_bot for ordering pizzas and set nlu_intent_confidence_threshold to 0.5

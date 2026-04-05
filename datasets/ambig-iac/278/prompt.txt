@@ -1,0 +1,1 @@
+I need an isolated network space for our systems that still lets them reach the outside world, and it should be set up in the place where most of our other stuff already runs.

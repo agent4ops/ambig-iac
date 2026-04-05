@@ -1,0 +1,1 @@
+I need a small, budget-friendly place to run a test database that I can reach from anywhere, and it should generate its own access credentials so I don’t have to manage them manually.

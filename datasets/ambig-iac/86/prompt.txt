@@ -1,0 +1,1 @@
+I need a way for certain parts of our system to interact with our fast in‑memory data layer, but only with tightly limited permissions for security.

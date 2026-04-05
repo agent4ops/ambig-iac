@@ -1,0 +1,1 @@
+Create an AWS S3 bucket and configure a CSV inventory report every week of all current object versions in the bucket and store it in another created bucket.

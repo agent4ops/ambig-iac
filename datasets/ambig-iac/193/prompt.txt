@@ -1,0 +1,1 @@
+I need a place to store files that a web app can interact with directly, and it should allow requests from different parts of the app while still keeping things reasonably controlled.

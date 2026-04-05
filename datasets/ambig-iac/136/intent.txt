@@ -1,0 +1,2 @@
+Has one "aws_rds_cluster" resource
+with one "allocated_storage" = 100

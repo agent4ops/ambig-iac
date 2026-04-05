@@ -1,0 +1,1 @@
+defines a default network ACL with unrestricted ingress and egress rules allowing all traffic from and to any source.

@@ -1,0 +1,1 @@
+I need to enable some extra capabilities on our database so it can record important activity and keep the stored data protected, and I want this set up in a way that stays compatible with the specific database version we’re using.

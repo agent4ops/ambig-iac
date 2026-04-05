@@ -1,0 +1,1 @@
+I need a setup that can automatically pull students’ code from our class repository, run it in a controlled environment, and save whatever it produces, all while keeping the whole process lightweight and reliable.

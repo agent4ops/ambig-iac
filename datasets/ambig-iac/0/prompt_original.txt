@@ -1,0 +1,1 @@
+Configure a query log that can create a log stream and put log events using Route 53 resources. Name the zone "primary", the cloudwatch log group "aws_route53_example_com", and the cloudwatch log resource policy "route53-query-logging-policy"

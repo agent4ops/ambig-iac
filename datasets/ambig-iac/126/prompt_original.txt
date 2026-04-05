@@ -1,0 +1,1 @@
+Create a managed MSK cluster with encryption at rest.

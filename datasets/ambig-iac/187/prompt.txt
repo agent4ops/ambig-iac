@@ -1,0 +1,1 @@
+I need a place to keep files long‑term, and it should automatically shift older stuff into cheaper storage without me having to manage it.

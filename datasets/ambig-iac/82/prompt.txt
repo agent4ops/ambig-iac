@@ -1,0 +1,1 @@
+I need a way to automatically pick the newest stable system image for our servers so we’re always starting from an up‑to‑date base without having to track it manually.

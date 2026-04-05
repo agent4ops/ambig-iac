@@ -1,0 +1,1 @@
+I need a way for systems in a private part of our network to reach the outside world reliably without exposing themselves directly.

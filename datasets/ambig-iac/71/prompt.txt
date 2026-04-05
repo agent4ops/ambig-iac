@@ -1,0 +1,1 @@
+I need to add a pool of machines that can join our container platform, scale up and down automatically, and have whatever access they need to pull images and handle networking, while keeping the setup simple and reliable.

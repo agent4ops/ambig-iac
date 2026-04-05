@@ -1,0 +1,1 @@
+I need a small setup that can run some ongoing data queries for me, without requiring much maintenance and able to scale as needed.

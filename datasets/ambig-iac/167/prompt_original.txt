@@ -1,0 +1,1 @@
+Create an AWS Chime Voice Connector with encryption and log media metrics.

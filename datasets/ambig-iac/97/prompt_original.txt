@@ -1,0 +1,1 @@
+Create an IAM role and a redshift cluster and associate the IAM role with the RedShift cluster.

@@ -1,0 +1,1 @@
+I need a reliable setup for our data so it stays available even if part of the system goes down, and each part should have plenty of room to store what it needs.

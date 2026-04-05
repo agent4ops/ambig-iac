@@ -1,0 +1,1 @@
+AWS Lightsail that creates a postgres database, which enable applying changes immediately instead of waiting for a maintiance window

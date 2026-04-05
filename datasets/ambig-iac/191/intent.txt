@@ -1,0 +1,6 @@
+Has an aws_s3_bucket resource
+with object_lock_enabled = true
+
+Has an aws_s3_object_lock resource
+with bucket = bucket id OR name
+and a correct rule

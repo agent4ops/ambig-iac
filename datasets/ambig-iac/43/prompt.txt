@@ -1,0 +1,1 @@
+We need a way to take a steady flow of app events and push them into a search-friendly system in near real time, with some kind of fallback storage so we don’t lose data if the main target is slow or unavailable.

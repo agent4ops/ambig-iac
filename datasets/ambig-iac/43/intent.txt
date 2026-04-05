@@ -1,0 +1,1 @@
+Has one "aws_iam_role" resource, one "aws_s3_bucket" resource, one "aws_opensearchserverless_security_policy" resource, and one "aws_kinesis_firehose_delivery_stream" resource with an "opensearchserverless_configuration" block

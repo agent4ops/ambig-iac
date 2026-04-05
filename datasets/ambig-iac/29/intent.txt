@@ -1,0 +1,1 @@
+Has one resource "aws_lex_bot" and at least one resource "aws_lex_intent" with at least one user prompt

@@ -1,0 +1,1 @@
+Create an Elastic Beanstalk application with an app version lifecycle

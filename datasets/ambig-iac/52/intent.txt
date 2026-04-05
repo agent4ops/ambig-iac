@@ -1,0 +1,1 @@
+Has one "aws_iam_role" resource, one "aws_kendra_index" resource, and one "aws_kendra_data_source" resource with a "proxy_configuration" block

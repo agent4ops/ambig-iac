@@ -1,0 +1,1 @@
+I need everything in this environment to communicate freely with anything else for now, just to keep things simple while we’re getting started.

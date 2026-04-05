@@ -1,0 +1,1 @@
+I need to run a data service that should live in a private network and be spread across a couple of separate areas for better resilience.

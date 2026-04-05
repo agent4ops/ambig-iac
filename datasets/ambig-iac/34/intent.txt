@@ -1,0 +1,1 @@
+Has one resource "aws_connect_instance", at least one "aws_lex_intent" resource, one "aws_lex_bot" resource, and one "aws_connnect_bot_association" resource

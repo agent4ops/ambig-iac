@@ -1,0 +1,1 @@
+I need users to reach our service through our main domain in a way that automatically sends them to whichever location can respond the quickest, even as traffic conditions change.

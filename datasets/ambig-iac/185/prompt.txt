@@ -1,0 +1,1 @@
+I need a place to store files where our team clearly owns anything that gets added, and it should only be accessible to us while keeping things simple.

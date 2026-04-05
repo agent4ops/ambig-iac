@@ -1,0 +1,1 @@
+I need a small relational data store for an app I’m testing, and it’s fine if it doesn’t keep a backup when I tear it down.

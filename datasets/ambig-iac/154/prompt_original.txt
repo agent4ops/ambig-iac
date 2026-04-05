@@ -1,0 +1,1 @@
+Create an AWS VPC resource with a subnet and associated network ACLs to control both ingress and egress traffic

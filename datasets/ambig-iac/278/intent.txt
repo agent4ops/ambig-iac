@@ -1,0 +1,8 @@
+Has one "aws_vpc" resource:
+with a specified "cidr_block" of "10.0.0.0/16"
+with "enable_dns_hostnames" set to true
+with a "tags" map that is not null, including at least a "Name" key with a value
+
+Has one "aws_internet_gateway" resource:
+with "vpc_id" referencing the "aws_vpc" resource by its ID
+with a "tags" map that is not null, including at least a "Name" key with a value

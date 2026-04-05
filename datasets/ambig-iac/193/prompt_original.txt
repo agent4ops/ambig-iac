@@ -1,0 +1,1 @@
+Create a S3 bucket and a bucket CORS configuration resource that attaches an example CORS rule to the bucket. Make sure the CORS rule has all of the required attributes.

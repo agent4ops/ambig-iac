@@ -1,0 +1,1 @@
+I just need a super simple, low‑cost cloud machine spun up so I can run a few lightweight tasks without dealing with a bunch of setup.

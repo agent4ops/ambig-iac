@@ -1,0 +1,1 @@
+Create an AWS resource to help me store images that I want to display on my website

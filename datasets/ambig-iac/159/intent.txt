@@ -1,0 +1,6 @@
+Has "aws_vpc"
+
+Has two "aws_subnet"
+
+Has "aws_neptune_subnet_group"
+with subnet_ids = array with both "aws_subnet"

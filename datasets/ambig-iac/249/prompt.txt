@@ -1,0 +1,1 @@
+We need a place to keep infrequently used data for a long time, and I want to get alerted whenever someone finishes pulling something out of it.

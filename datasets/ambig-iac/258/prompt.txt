@@ -1,0 +1,1 @@
+I need a small database for an app we’re testing, but it should be tuned so it can handle heavier in‑memory workloads without slowing down.

@@ -1,0 +1,5 @@
+Has an aws_s3_bucket resource
+
+Has an aws_bucket_analytics_configuration resource
+with bucket = bucked id
+and storage_class_analysis with (refer to desired output)

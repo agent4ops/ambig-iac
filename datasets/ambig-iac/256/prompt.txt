@@ -1,0 +1,1 @@
+I need a simple place to store structured app data that can handle basic queries without much setup.

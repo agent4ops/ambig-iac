@@ -1,0 +1,1 @@
+I need a setup where people inside our company automatically connect to a different data store than outsiders, and everyone should be able to use simple, human‑friendly names to reach the right place without extra steps.

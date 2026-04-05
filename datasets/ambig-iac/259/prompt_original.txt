@@ -1,0 +1,1 @@
+Create an AWS mySQL instance. Any changes on it will be applied immediately

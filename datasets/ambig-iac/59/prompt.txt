@@ -1,0 +1,1 @@
+I need a way to automatically flag when one of our machines is working too hard and have that status feed into whatever system is watching over our app’s overall well‑being, but it should err on the side of saying things are fine if there isn’t enough info.

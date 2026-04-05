@@ -1,0 +1,1 @@
+I need a simple way to analyze streaming data as it comes in, nothing fancy, just enough to get something running quickly.

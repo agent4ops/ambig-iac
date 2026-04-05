@@ -1,0 +1,1 @@
+I need a private network for our systems, and I want all the machines in it to automatically pick up some custom naming and lookup settings so everything can find each other reliably.

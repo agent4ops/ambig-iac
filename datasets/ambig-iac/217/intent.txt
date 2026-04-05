@@ -1,0 +1,41 @@
+have one "aws_cloudfront_origin_access_control" resource
+    with "name" argument
+    with "origin_access_control_origin_type" with value "s3"
+    with "signing_behavior" argument with value "always"
+    with "signing_protocol" argument with value "sigv4"
+
+have one "aws_cloudfront_distribution" resource
+    with "origin.domain_name" argument linking to "aws_s3_bucket" resource
+    with "origin.origin_access_control_id" argument linking to "aws_cloudfront_origin_access_control" resource
+    with "origin.origin_id" argument with value x
+    with "default_cache_behavior.allowed_methods" argument with value ["GET", "HEAD"]
+    with "default_cache_behavior.cached_methods" argument with value ["GET", "HEAD"]
+    with "default_cache_behavior.target_origin_id" argument with value x
+    with "default_cache_behavior.viewer_protocol_policy" argument with value "allow-all"
+    with "price_class" argument with value "PriceClass_200"
+    with "restrictions.geo_restriction.restriction_type" argument with value "whitelist"
+    with "restrictions.geo_restriction.locations" argument with value ["US", "CA", "GB", "DE"]
+    with "viewer_certificate.cloudfront_default_certificate" argument with value true
+
+have one "aws_s3_bucket" resource
+
+have one "aws_route53_zone" resource
+    with "name" argument with value "netflix.com"
+
+have one "aws_route53_record" resource
+    with "type" argument with value "A"
+    with "name" argument with value "cdn"
+    with "zone_id" argument linking to "aws_route53_zone" resource
+
+    with "alias.name" argument linking to "aws_cloudfront_distribution" resource
+    with "alias.zone_id" argument linking to "aws_cloudfront_distribution" resource
+    with "alias.evaluate_target_health" argument with value true
+
+have one "aws_route53_record" resource
+    with "type" argument with value "AAAA"
+    with "name" argument with value "cdn"
+    with "zone_id" argument linking to "aws_route53_zone" resource
+
+    with "alias.name" argument linking to "aws_cloudfront_distribution" resource
+    with "alias.zone_id" argument linking to "aws_cloudfront_distribution" resource
+    with "alias.evaluate_target_health" argument with value true

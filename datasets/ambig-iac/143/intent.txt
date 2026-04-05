@@ -1,0 +1,1 @@
+has one "aws_dax_cluster"

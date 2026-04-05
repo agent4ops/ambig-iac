@@ -1,0 +1,1 @@
+Generate a Terraform script to configure an OIDC identity provider for an AWS EKS cluster (where the cluster has it's name attribute set to "example"). Define a resource that links to the cluster by name and sets up OIDC with specific parameters including client ID, identity provider config name, and issuer URL.

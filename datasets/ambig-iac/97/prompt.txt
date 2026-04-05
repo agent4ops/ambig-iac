@@ -1,0 +1,1 @@
+I need a data warehouse that can pull information from our storage system automatically, and it should have the right access setup so it can read what it needs without exposing anything else.

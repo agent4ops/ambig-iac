@@ -1,0 +1,16 @@
+Has multiple "aws_vpc" resource
+    with a specified "cidr_block"
+    with "enable_dns_hostnames" equal to "true"
+    with "enable_dns_support" equal to "true"
+
+Has one "aws_route53_zone" resource
+    with "name"
+    with a "vpc" block that contains "vpc_id" that references the "aws_vpc" resource
+
+Has one "aws_route53_vpc_association_authorization" resource
+    with "vpc_id" referencing the "aws_vpc" resource 
+    with "zone_id" referencing the "aws_route53_zone" resource
+
+Has one "aws_route53_zone_association" resource
+    with "vpc_id" referencing the "aws_route53_vpc_association_authorization" resource 
+    with "zone_id" referencing the "aws_route53_vpc_association_authorization" resource

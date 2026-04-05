@@ -1,0 +1,1 @@
+I need a way to group together a couple of private network segments so a high‑speed caching layer can run in them reliably.

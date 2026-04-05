@@ -1,0 +1,7 @@
+has one "aws_iam_role" resource
+with one "name"
+with one "assume_role_policy"
+
+has one "aws_iam_role_policy_attachment" resource
+with one "policy_arn"
+with one "role"

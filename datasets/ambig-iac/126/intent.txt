@@ -1,0 +1,3 @@
+Has one "aws_msk_cluster" resource
+with one "encryption_info"
+with one "encryption_at_rest_kms_key_arn"

@@ -1,0 +1,18 @@
+Resource "aws_iam_role" "eks-fargate-profile"
+has one "name"
+has one "assume_role_policy"
+Resource "aws_iam_role_policy_attachment" "eks-fargate-profile"
+has one "policy_arn"
+has one "role"
+Resource "aws_eks_fargate_profile" "kube-system"
+has one "cluster_name"
+has one "fargate_profile_name"
+has one "pod_execution_role_arn"
+has one "subnet_ids"
+has one "namespace" in "selector"
+Data "aws_eks_cluster_auth" "eks"
+has one "name"
+Resource "null_resource" "k8s_patcher"
+has multiple "triggers" (endpoint, ca_crt, token)
+uses a "local-exec" provisioner to execute a command that patches the Kubernetes deployment
+has a "lifecycle" policy to ignore changes in "triggers"

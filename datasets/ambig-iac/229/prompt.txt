@@ -1,0 +1,1 @@
+I want a small, low-cost setup that can run a basic website with minimal effort, and it should be easy to get started without managing a lot of underlying pieces.

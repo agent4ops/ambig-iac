@@ -1,0 +1,1 @@
+I need a setup where we can automatically run students’ code in a controlled environment, save whatever it produces, and make sure the code can’t talk to the outside world, all while keeping the whole thing fairly simple to operate.

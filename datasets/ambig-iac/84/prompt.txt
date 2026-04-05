@@ -1,0 +1,1 @@
+I need a super-fast, in-memory place to stash frequently used data so my app can handle bursts of traffic without slowing down.

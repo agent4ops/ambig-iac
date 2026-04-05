@@ -1,0 +1,1 @@
+I need a small analytical data system set up for internal use, and it should save its state on a regular schedule so we can recover quickly if something goes wrong.

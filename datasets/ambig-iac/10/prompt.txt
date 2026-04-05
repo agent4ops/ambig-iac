@@ -1,0 +1,1 @@
+I need a way for one of our machines to clearly identify itself when others look it up by its address, and it should be set up in a way that’s easy to manage going forward.

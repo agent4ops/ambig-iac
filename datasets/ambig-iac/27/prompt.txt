@@ -1,0 +1,1 @@
+I want a simple conversational helper that can guide people through giving a few pieces of information step by step, making sure nothing important is missed before confirming their request.

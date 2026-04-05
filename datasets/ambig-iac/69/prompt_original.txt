@@ -1,0 +1,1 @@
+Create a Terraform script for an AWS IAM role designed for EKS Fargate profiles. Define a role with a specific name (with the name attribute set to "eks-fargate-profile-example") and an assume role policy that allows actions from 'eks-fargate-pods.amazonaws.com'. Also, attach a predefined Amazon EKS Fargate Pod Execution Role Policy to this role.

@@ -1,0 +1,1 @@
+I need a way for systems in a restricted part of our network to reach the outside world reliably, and it should be clear from its metadata what team is responsible for it.

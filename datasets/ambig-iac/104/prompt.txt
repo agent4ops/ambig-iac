@@ -1,0 +1,1 @@
+I need a place to store structured game data that can reliably handle a steady amount of reads and writes without slowing down.

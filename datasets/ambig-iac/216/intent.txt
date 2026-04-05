@@ -1,0 +1,26 @@
+have one "aws_cloudfront_origin_access_control" resource
+    with "name" argument
+    with "origin_access_control_origin_type" with value "s3"
+    with "signing_behavior" argument
+    with "signing_protocol" argument
+have one "aws_cloudfront_distribution" resource
+    with "origin.domain_name" argument linking to "aws_s3_bucket" resource
+    with "origin.origin_access_control_id" argument linking to "aws_cloudfront_origin_access_control" resource
+    with "origin.origin_id" argument
+    with "default_cache_behavior.allowed_methods" argument with value ["GET", "HEAD"]
+    with "default_cache_behavior.cached_methods" argument with value ["GET", "HEAD"]
+    with "default_cache_behavior.target_origin_id" argument having the same value as "origin.origin_id" argument
+    with "default_cache_behavior.viewer_protocol_policy" argument with value "allow-all"
+    with "restrictions.geo_restriction.restriction_type" argument
+    with "restrictions.geo_restriction.locations" argument
+    with "viewer_certificate.cloudfront_default_certificate" argument
+have one "aws_s3_bucket" resource
+have one "aws_route53_zone" resource
+    with "name" argument
+have one "aws_route53_record" resource
+    with "type" argument
+    with "name" argument
+    with "zone_id" argument linking to "aws_route53_zone" resource
+    with "alias.name" argument linking to "aws_cloudfront_distribution" resource
+    with "alias.zone_id" argument linking to "aws_cloudfront_distribution" resource
+    with "alias.evaluate_target_health" argument

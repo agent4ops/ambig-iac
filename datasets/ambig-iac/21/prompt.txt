@@ -1,0 +1,1 @@
+I want an automated build process that pulls code from our online repo and keeps track of everything it does, and it should be able to run in a lightweight environment without costing too much.

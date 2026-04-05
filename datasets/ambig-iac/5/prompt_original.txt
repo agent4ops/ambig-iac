@@ -1,0 +1,1 @@
+Using route 53 resources, configure a weighted routing policy that splits users between two db_instances that are replicas of a main db_instance. Call the zone "main", the original db_instance "primary", and the two replicas "replica-1" and "replica-2" respectively

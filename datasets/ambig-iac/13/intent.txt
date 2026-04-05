@@ -1,0 +1,7 @@
+Has one "aws_elastic_beanstalk_application" resource
+    with "name"
+
+Has one "aws_elastic_beanstalk_configuration_template" resource
+    with "name"
+    with "application" referencing the "aws_elastic_beanstalk_application" resource
+    with "solution_stack_name" 

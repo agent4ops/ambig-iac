@@ -1,0 +1,1 @@
+I need a dependable way to handle a steady stream of messages for our apps, and it should keep running smoothly even if part of the system goes down.

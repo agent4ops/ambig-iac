@@ -1,0 +1,1 @@
+I need a way to manage who can do what in our shared in‑memory data service so we can keep things secure without making access too complicated.

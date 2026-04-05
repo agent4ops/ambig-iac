@@ -1,0 +1,1 @@
+Set up a VPC in the AWS region with two subnets in different availability zones, an internet gateway, and a route table for internet access. It also defines a security group to allow access to MySQL and PostgreSQL databases on their default ports from any IP address and creates a database subnet group including both subnets.

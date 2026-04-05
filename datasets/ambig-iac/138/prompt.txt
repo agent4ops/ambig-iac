@@ -1,0 +1,1 @@
+I need a small, inexpensive place to store structured app data that stays running on its own and doesn’t require much upkeep.

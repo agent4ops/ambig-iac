@@ -1,0 +1,1 @@
+Create an elastic beanstalk WebServer environment with a elastic beanstalk application. Name the iam_role "eb_ec2_role", the instance profile "eb_ec2_profile", and the elastic beanstalk application "my_application"
