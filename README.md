@@ -121,10 +121,14 @@ datasets/ambig-iac/      # Dataset: 300 tasks (prompt.txt, intent.txt, main.tf, 
 If you find this work useful, please cite:
 
 ```bibtex
-@article{yang2025ambigiac,
-  title={Ambig-IAC: Multi-level Disambiguation for Interactive Cloud Infrastructure-as-Code Synthesis},
-  author={Yang, Zhenning and Gruizenga, Kaden and Miao, Tongyuan and Kon, Patrick Tser Jern and Chen, Ang and Guan, Hui},
-  year={2025}
+@misc{yang2026ambigiacmultileveldisambiguationinteractive,
+      title={Ambig-IaC: Multi-level Disambiguation for Interactive Cloud Infrastructure-as-Code Synthesis}, 
+      author={Zhenning Yang and Kaden Gruizenga and Tongyuan Miao and Patrick Tser Jern Kon and Hui Guan and Ang Chen},
+      year={2026},
+      eprint={2604.02382},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2604.02382}, 
 }
 ```
 
