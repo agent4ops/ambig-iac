@@ -4,6 +4,22 @@
 
 Research framework for evaluating LLM-generated Terraform (IaC) code. Measures how well LLMs handle ambiguous or incomplete infrastructure specifications through clarification-based methods and spec-level evaluation.
 
+## Ambiguity in IaC Specifications
+
+<p align="center">
+  <img src="assets/motivation-1.png" width="80%" alt="Motivation"/>
+</p>
+
+## Clarification Pipeline
+
+**Prior approach.** Entropy-based question selection is effective at finding the most informative clarification, but it is expensive: the system must generate many candidate solutions *and* candidate questions, then ask the LLM to answer every question against every solution to estimate the entropy of each question. The LLM invocation count grows as *O(solutions × questions)*.
+
+**Key insight.** IaC specs are structured, so candidate interpretations can be compared directly as graphs — structural deltas emerge automatically without any LLM invocation. Ranking these deltas by entropy to pick the most informative clarification question is then nearly free and scales gracefully with the number of candidates.
+
+<p align="center">
+  <img src="assets/overview-1.png" width="80%" alt="Overview"/>
+</p>
+
 ## Setup
 
 ```bash
