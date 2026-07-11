@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you find this work useful, please cite it as below."
+title: "Ambig-IaC: Multi-level Disambiguation for Interactive Cloud Infrastructure-as-Code Synthesis"
+authors:
+  - family-names: Yang
+    given-names: Zhenning
+  - family-names: Gruizenga
+    given-names: Kaden
+  - family-names: Miao
+    given-names: Tongyuan
+  - family-names: Kon
+    given-names: Patrick Tser Jern
+  - family-names: Guan
+    given-names: Hui
+  - family-names: Chen
+    given-names: Ang
+year: 2026
+url: "https://arxiv.org/abs/2604.02382"
+repository-code: "https://github.com/zyang37/ambig-iac"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Ambig-IaC: Multi-level Disambiguation for Interactive Cloud Infrastructure-as-Code Synthesis"
+  authors:
+    - family-names: Yang
+      given-names: Zhenning
+    - family-names: Gruizenga
+      given-names: Kaden
+    - family-names: Miao
+      given-names: Tongyuan
+    - family-names: Kon
+      given-names: Patrick Tser Jern
+    - family-names: Guan
+      given-names: Hui
+    - family-names: Chen
+      given-names: Ang
+  year: 2026
+  eprint: "2604.02382"
+  archive-prefix: "arXiv"
+  primary-class: "cs.SE"
+  url: "https://arxiv.org/abs/2604.02382"
